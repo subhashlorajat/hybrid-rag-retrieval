@@ -1,0 +1,73 @@
+{
+  "chunk_sweep": [
+    {
+      "chunk_size": 100,
+      "overlap": 20,
+      "num_chunks": 389,
+      "avg_chunk_words": 99.4,
+      "bm25_recall@3": 1.0,
+      "bm25_mrr": 1.0,
+      "dense_recall@3": 1.0,
+      "dense_mrr": 0.947,
+      "hybrid_recall@3": 1.0,
+      "hybrid_mrr": 0.977
+    },
+    {
+      "chunk_size": 150,
+      "overlap": 30,
+      "num_chunks": 260,
+      "avg_chunk_words": 148.6,
+      "bm25_recall@3": 1.0,
+      "bm25_mrr": 1.0,
+      "dense_recall@3": 0.955,
+      "dense_mrr": 0.943,
+      "hybrid_recall@3": 1.0,
+      "hybrid_mrr": 1.0
+    },
+    {
+      "chunk_size": 200,
+      "overlap": 40,
+      "num_chunks": 195,
+      "avg_chunk_words": 197.7,
+      "bm25_recall@3": 1.0,
+      "bm25_mrr": 0.955,
+      "dense_recall@3": 1.0,
+      "dense_mrr": 0.977,
+      "hybrid_recall@3": 1.0,
+      "hybrid_mrr": 1.0
+    },
+    {
+      "chunk_size": 150,
+      "overlap": 0,
+      "num_chunks": 210,
+      "avg_chunk_words": 147.5,
+      "bm25_recall@3": 0.955,
+      "bm25_mrr": 0.943,
+      "dense_recall@3": 0.909,
+      "dense_mrr": 0.924,
+      "hybrid_recall@3": 1.0,
+      "hybrid_mrr": 0.947
+    }
+  ],
+  "best_chunk_config": {
+    "chunk_size": 150,
+    "overlap": 30
+  },
+  "fusion_k_sweep": [
+    {
+      "fusion_k": 10,
+      "recall@3": 1.0,
+      "mrr": 1.0
+    },
+    {
+      "fusion_k": 60,
+      "recall@3": 1.0,
+      "mrr": 1.0
+    },
+    {
+      "fusion_k": 100,
+      "recall@3": 1.0,
+      "mrr": 1.0
+    }
+  ]
+}

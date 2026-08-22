@@ -1,0 +1,2353 @@
+Source: https://norma.ncirl.ie/9297/1/NCI_Library_Referencing_Guide_6th_Edition.pdf
+Title: NCI Library Referencing and Avoiding Plagiarism Guide (6th Edition)
+
+Shannon Mallon
+Keith Brittle
+Isobel Dunne
+Library Academic Support Centre
+NCI Library 
+Referencing and Avoiding 
+Plagiarism Guide
+6TH EDITION
+
+NCI Library Referencing and Avoiding Plagiarism Guide
+01
+Contents
+Introduction & Foreword – 6th Edition 2025
+Selecting the Best Resources to Use for Your Assignments & Research
+Choosing What Information to Use
+Evaluating Information
+The CRAAP Test
+Using Information - Paraphrasing, Summarising & Quoting
+Paraphrasing
+Why Paraphrase?
+Paraphrasing Tips
+Summarising
+Quoting
+The Importance of Notetaking
+Tips to Remember
+Academic Integrity and Avoiding Plagiarism
+What is Academic Integrity?
+What is Plagiarism?
+Examples of Plagiarism
+How Do I Avoid Plagiarism?
+How is Plagiarism Detected?
+Artificial Intelligence (AI)
+What is Generative AI?
+AI and Academic Integrity
+Risks and Disadvantages of Using AI
+How Can I Use AI Ethically?
+Research Assistants
+Using Grammar/Spelling Correction Tools
+Consequences of Plagiarism and Unethical Use of AI in Your Work
+The Basics of Referencing
+06
+07
+07
+08
+08
+09
+09
+10
+11
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+17
+18
+18
+18
+20
+21
+21
+22
+23
+NCI Library Referencing and Avoiding Plagiarism Guide
+02
+What is Referencing?
+Why Should I Reference?
+When Should I Reference?
+Where Do I Reference?
+What Referencing Style Should I Use?
+Formulating References
+Reference Managers
+Other Referencing Tools
+Harvard Style
+Getting Started
+Referencing In Text
+The Reference List
+Harvard - Core Sources
+Books
+Edited Books
+eBooks
+Edited eBooks
+Journal Articles
+Conference Papers
+Webpages
+Online News Articles/Blogs
+Case Studies
+Harvard – Additional Sources
+Social Media - Facebook/Instagram/X/LinkedIn
+Online Videos - YouTube etc.
+Podcasts
+Encyclopedias/Dictionaries
+Legislation
+Legal Cases/Law Reports
+23
+24
+24
+25
+25
+26
+26
+27
+29
+29
+29
+31
+32
+32
+34
+35
+36
+37
+39
+40
+42
+43
+44
+44
+44
+44
+45
+46
+47
+NCI Library Referencing and Avoiding Plagiarism Guide
+03
+Theses/Dissertations
+Lecture Notes/Slides
+Diagrams/Charts/Images/Tables
+Harvard – Additional Notes
+Formulating References
+Block Quotations
+No Known Author
+DOIs/Permalinks
+Authors Referring to Other Authors – Secondary Referencing
+Citing Multiple Sources In-Text – Chronological, Then Alphabetical Order
+Acronyms or Abbreviations
+Reference List Tips
+Harvard – Sample Reference List
+APA Style
+Getting Started
+Referencing In Text
+The Reference List
+APA - Core Sources
+Books/eBooks
+Edited Books/eBooks
+Journal Articles
+Conference Papers/Proceedings
+Webpages
+Online News Articles/Blogs
+APA – Additional Sources
+Psychological Tests/Scales
+Social Media
+Online Videos
+Podcasts
+48
+48
+48
+49
+49
+49
+49
+50
+51
+52
+52
+53
+55
+58
+58
+58
+60
+62
+62
+64
+65
+67
+69
+70
+70
+71
+71
+71
+72
+NCI Library Referencing and Avoiding Plagiarism Guide
+04
+Encyclopedias/Dictionaries
+Legislation
+Theses/Dissertations
+Lecture Notes
+Diagrams/Charts/Images/Tables
+Software
+APA – Additional Notes
+Formulating References
+Block Quotations
+No Known Author
+DOIs/Permalinks
+Authors Referring to Other Authors – Secondary Referencing
+Citing Multiple Sources In-Text – Alphabetical, Then Chronological Order
+Acronyms or Abbreviations
+Identical In-Text References When Shortened Using Et Al.
+Reference List Tips
+APA – Sample Reference List
+IEEE Style
+Getting Started
+Referencing Format
+Referencing In-Text
+The Reference List
+IEEE - Core Sources
+Books
+Edited Books
+eBooks
+Edited eBooks
+Journal Articles
+Conference Papers
+73
+74
+75
+75
+75
+75
+76
+76
+76
+77
+77
+78
+79
+79
+79
+80
+81
+83
+83
+83
+83
+85
+86
+86
+88
+89
+90
+91
+93
+NCI Library Referencing and Avoiding Plagiarism Guide
+05
+Webpages
+Online News Articles/Blogs
+IEEE - Additional Sources
+Datasets
+Code
+Software
+Legislation
+Patents/Standards
+Preprints (ArXiv etc.)
+Social Media - Facebook/X/Instagram
+Online Videos
+Theses/Dissertations
+Diagrams/Images/Charts/Tables
+IEEE – Additional Notes
+Formulating References
+In-Text Citations
+Formatting Figures/Tables In-Text
+Acronyms & Abbreviations
+No Known Author
+Authors Referring to Other Authors – Secondary Referencing
+DOIs/Permalinks
+Reference List Tips
+IEEE – Sample Reference List
+Help & Support
+Library Academic Support Centre
+94
+95
+96
+96
+96
+97
+97
+98
+99
+99
+100
+100
+100
+101
+101
+101
+102
+103
+104
+104
+104
+106
+107
+109
+109
+Introduction & Foreword – 6th Edition 2025
+We’re delighted to present the sixth edition of the NCI Library Referencing 
+and Avoiding Plagiarism Guide. Expertly authored by Shannon Mallon, 
+with valuable contributions from Keith Brittle and Isobel Dunne of 
+the Library Academic Support Centre (LASC), this guide has evolved 
+significantly since its first release in 2008, originally titled How to 
+Reference: Harvard Style. 
+In this edition, you’ll find clear guidance on how to select and evaluate 
+information, understand the fundamentals of referencing, and use NCI’s 
+three primary referencing styles—Harvard, APA, and IEEE. You’ll also 
+discover tools and tips to support your referencing skills. 
+A referencing guide is essential for students because it helps them avoid 
+plagiarism by properly crediting sources, supports their arguments 
+with credible evidence, and ensures consistency and professionalism in 
+academic writing. It also teaches discipline-specific citation practices, 
+which are crucial for scholarly communication. Using a guide correctly 
+reflects strong research and writing skills. 
+You may also hear about academic integrity and avoiding plagiarism in 
+relation to referencing and academic writing. You can find more about 
+these concepts as well as updated advice on artificial intelligence in this 
+guide. 
+We hope you will find this edition helpful, but remember you are always 
+welcome to reach out to the Library Academic Support Centre at any 
+stage of your studies at NCI for further advice and assistance with the 
+topics covered in this guide.
+Wishing you every success in your studies, 
+Mary Buckley, Librarian, NCI, 2025 
+NCI Library Referencing and Avoiding Plagiarism Guide
+06
+Selecting the Best Resources to Use for Your 
+Assignments & Research
+When writing assignments and conducting research in National College 
+of Ireland, it’s necessary for you to use authentic and good quality 
+information and evidence to back up your work. The types of sources 
+that you read, use and reference in your assignments at NCI can seriously 
+impact the quality of your work; therefore, you need to carefully select 
+the sources that you are going use to back up your writing. First, you 
+should prioritise the resources and readings that your lecturer has 
+highlighted on their Moodle page. Secondly, you should explore further 
+resources available from the library such as academic journals, textbooks 
+and eBooks as these are more reliable sources to use than more random 
+sources found on the internet. 
+Different types of sources serve distinct functions; for example, 
+a textbook will provide a broad overview of a topic or field (e.g. 
+management or psychology), introducing you to important concepts 
+or theory. Whereas a journal article will provide you with more specific 
+information, usually the findings of a research project. Therefore, it is 
+important to choose the right type of source based on your assignment 
+and the information required to complete it. 
+Choosing What Information to Use
+When it comes to choosing information to use and reference in your 
+assignments and research, try to follow the two-step process below:
+1. Start with module/Moodle content such as recommended reading 
+(textbooks, journal articles, reports, links in lecturer slides etc.)
+2. Then ask yourself: What additional resources do you need from 
+NCI library? The assignment/research task will dictate how much 
+additional information you need
+NCI Library Referencing and Avoiding Plagiarism Guide
+07
+Following this process helps to avoid searching for more random 
+information on the internet – remember many websites are not 
+considered valid academic sources.
+Evaluating Information 
+While it is recommended that you concentrate on academic resources 
+such as textbooks or journal articles for your assignments and research, it 
+is likely that you will reference a variety of different source types in your 
+academic work. If you do choose to reference a website or other internet 
+resource, it is particularly important to be able to evaluate its credibility 
+and ensure that it is a reputable source to use. 
+The CRAAP Test
+The CRAAP test is commonly used to evaluate information sources and is 
+particularly relevant when assessing internet sources. It stands for:
+Currency: Is the information up to date and recent enough for your needs?
+Relevance: Does it clearly relate to your topic? Who is the intended 
+audience?
+Authority: Who is the author and what are their qualifications? Are they 
+affiliated with a particular organisation or institution?
+Accuracy: Is the information correct and supported by verifiable evidence/
+references? Is the information free of grammatical and spelling errors?
+Purpose: Why was the information created, to inform, sell or persuade? Is 
+it objective, or is there bias? Is the author’s point of view clear?
+It is important to ask questions like these about the information you use 
+and to not automatically assume it is accurate or reliable. 
+In addition to the above strategy, it’s important that you do not take 
+information found on the internet at face value. Always seek to crossreference and cross-check the information in reputable sources to verify 
+NCI Library Referencing and Avoiding Plagiarism Guide
+08
+if the information you are looking to use is genuine. Prioritising your 
+lecturer’s recommended resources and NCI library’s resources will reduce 
+the need for this type of in-depth verification.
+Using Information - Paraphrasing, 
+Summarising & Quoting
+There are three main ways of incorporating other writers’ work into 
+your own writing - you can either paraphrase, summarise or use a direct 
+quotation. Regardless of which method you use, you must reference 
+the original source of the information both in text and at the end of your 
+work.
+When you are paraphrasing, summarising or quoting information from 
+another source, ensure you integrate the information into your own 
+writing. This means:
+● It must be relevant to your argument
+● It must join neatly with what comes before and after in your own 
+writing
+● It must make logical and grammatical sense
+Paraphrasing
+Paraphrasing means taking the ideas, words or work of another and
+restating the information by using different words and phrasing so that 
+it is different from the original source but retains the original meaning 
+– this is how you demonstrate your own unique understanding of the 
+information. 
+Paraphrasing is a key academic skill when using information from other 
+sources and should be the most frequently used method of incorporating 
+sources into your research since it shows a deeper understanding of the 
+NCI Library Referencing and Avoiding Plagiarism Guide
+09
+material and that you have developed your own thoughts on the topic. 
+While this is the most common method in academic writing you must still 
+ensure that credit is given to the original source of the information by 
+inserting a reference.
+Why Paraphrase?
+● Expressing ideas in your own words strongly supports your 
+argument and shows your lecturer how well you understand the 
+original material and the source being cited.
+● Shows understanding of the topic and adds value to your writing 
+about the topic being discussed
+● Provides supporting evidence for your arguments, adding 
+credibility to your ideas and work
+● Improves the flow of your paper, by retaining your own tone and 
+voice rather than that of your sources
+A paraphrase should be a restatement of the meaning of the original text 
+in your own words and not simply changing some words or sentences 
+around. 
+For successful paraphrasing you need to:
+● Substantially change the words
+● And change the grammar
+The idea of the author(s) should remain the same, but the detail will be in 
+your own words.
+NCI Library Referencing and Avoiding Plagiarism Guide
+10
+Paraphrasing Tips
+● Don’t copy and paste anything
+● Reread the original passage until you understand its full meaning
+● Set the original aside, and write a paraphrase in your own words
+● Check your paraphrase against the original to ensure that your own 
+words are an accurate interpretation of the original information
+● Insert a reference to the original source
+N.B. Only changing one or two words is NOT paraphrasing as your writing 
+will still be too similar to the original source.
+Summarising
+Summarising involves giving a summary of the main idea(s) of the original 
+text in your own words and still referencing the original source of the 
+information. Summaries are generally shorter than the original and give 
+your reader a broad overview of the main point(s) of the original source.
+Quoting
+Direct quotations should be used sparingly and only if necessary, for 
+example, when giving an exact definition. If quoting, the exact wording, 
+spelling and syntax of the original text must be used and the page 
+number (where available) from where it was taken must be included in 
+the in-text citation. Quotations must be integrated into your writing – 
+either before or after, you should indicate how the quote illustrates or 
+supports your point.
+N.B. You should use quotations only sparingly and only to support your 
+own argument NOT to replace it
+NCI Library Referencing and Avoiding Plagiarism Guide
+11
+The Importance of Notetaking
+It is important to take notes as you read to keep track of the information 
+you are using. Try to paraphrase and reference as you write, rather than 
+leaving it to the end. This means you are less likely to forget to paraphrase 
+or reference information and accidentally plagiarise. Always note the 
+reference details of the sources you take information from – even if just 
+the book title or the URL of a webpage - so that you can correctly credit 
+and reference where the information came from. 
+The Library Academic Support Centre’s Assignment/Research Planning 
+Guidelines (available online) can be used to help you take notes and keep 
+track of the sources you are using.
+Tips to Remember
+● Is it a quote? Reference it!
+● Is it a paraphrase? Reference it!
+● Is it another person’s idea/theory/image? Reference it!
+N.B. Every sentence of a paragraph in your written work that does not 
+contain a citation will be assumed to be your own writing, thoughts or 
+ideas, so make sure it is!
+The following sections contain information on academic integrity, 
+avoiding plagiarism and using artificial intelligence. For more information 
+on referencing and the three styles (Harvard, APA & IEEE) used at NCI, see 
+page 23. 
+NCI Library Referencing and Avoiding Plagiarism Guide
+12
+Academic Integrity and Avoiding Plagiarism 
+It is important to understand why using good quality resources and 
+referencing them is such a fundamental part of any academic undertaking. 
+Using academic resources ensures your work is built on solid evidence. 
+Referencing then allows you to present this evidence and support your 
+writing, which demonstrates to your reader that your research and writing 
+is well informed by appropriate sources. Most importantly, referencing 
+also allows you to credit other authors for the use of their words and 
+ideas. Ultimately, by using good quality resources and referencing them 
+accurately, you can uphold academic integrity in your work and avoid 
+plagiarism. 
+What is Academic Integrity?
+Academic integrity is about using your own thoughts and words in your 
+assignments and exams. It is important to be aware of the academic 
+practices required at National College of Ireland and to not assume 
+that what was accepted in your previous educational experience is also 
+accepted at NCI. 
+Academic writing is built on trust, and students are expected to be 
+honest and responsible in the work they do. This includes crediting and 
+referencing any sources that have been used in assignments and research 
+as well as using authentic, reputable sources that can be accessed and 
+verified by your lecturers. When information has been taken from another 
+source, you are expected to give full credit for the use of another person’s 
+thoughts and ideas. Intentional or unintentional use of another’s work, 
+without proper acknowledgement, is plagiarism. 
+See the Academic Integrity Guide and the Academic Integrity Starter 
+Guide for further details. In addition, Epigeum, a self-directed learning 
+programme on academic integrity, is available via Moodle or the Library 
+website (A-Z Databases) - all first year Undergraduate and Postgraduate 
+students are required to complete the programme.
+NCI Library Referencing and Avoiding Plagiarism Guide
+13
+What is Plagiarism?
+Plagiarism refers to taking another person’s words, ideas, data or images 
+and using them as your own without giving credit to the original source 
+of the information. Plagiarism can happen in many different ways, so it is 
+important to be aware of how to avoid it.
+Examples of Plagiarism
+● Copying words or ideas from someone else without giving them 
+credit
+● Copying images, graphs or computer code (for code, check 
+permitted use with your lecturers)
+● Paraphrasing another’s work too closely, with only minor changes, 
+but with the essential meaning, format and/or progression of ideas 
+maintained
+● Failing to put a quotation in quotation marks – this is considered 
+plagiarism even if you reference the source because you have 
+presented the work as a paraphrase (i.e. your own words)
+● Relying on a specific idea or interpretation which is not your own, 
+and which has not been properly referenced
+● Compiling the work of others from multiple sources, and 
+representing this as your own original work
+● When two or more students work together on an assignment/
+project that was meant to be completed by one person only (i.e. 
+collusion)
+● Preparing an original and correctly referenced assignment and 
+submitting part or all of the same exact assignment twice for 
+separate modules (i.e. self-plagiarism) 
+● Using generative AI tools (ChatGPT, Copilot etc.) to generate 
+content/text for your assignments without permission and 
+presenting this as your own work
+NCI Library Referencing and Avoiding Plagiarism Guide
+14
+How Do I Avoid Plagiarism? 
+● Don’t copy and paste any text into your assignment draft, as this 
+will inevitably lead to you using wording that is too close to the 
+original
+● Use a variety of good quality sources, i.e. don’t rely on just one 
+source for whole sections of your assignment
+● Keep good quality and accurate notes - good referencing starts 
+with well organised notetaking and record keeping
+● Make sure that you paraphrase properly and reference correctly
+● Don’t use generative AI tools to generate content/text for your 
+assignments (see page 17 of this guide for how to use AI ethically)
+How is Plagiarism Detected?
+Lecturer knowledge
+Plagiarism can be detected through your lecturer’s experience with how 
+plagiarism commonly occurs and their familiarity with key readings and 
+resources associated with the subject they are teaching.
+● They will look for any discrepancies between your own writing 
+style and the plagiarised content and be able to recognise when 
+the writing standard and style is above and beyond the normal 
+expectations of student work. 
+● If your writing is more comprehensive and more polished than 
+would be expected for your level of study (either for you or for 
+the students in your class), this can raise suspicions about the 
+originality of the content. 
+● If specific word choices used in your writing are unusual or 
+particularly sophisticated, this can also bring into question the 
+integrity of your work. 
+● If the resources you reference in your assignments cannot be 
+accessed by your lecturer, this is also an area of concern
+NCI Library Referencing and Avoiding Plagiarism Guide
+15
+Turnitin
+NCI uses similarity detection software called Turnitin to help academic 
+members of staff to detect possible instances of plagiarism. When you 
+submit an assignment on Moodle, Turnitin matches the text against its 
+own database of electronic resources and the internet and produces a 
+Similarity Report. This report highlights any matches and gives an overall 
+percentage of similarity found in the submitted paper. This helps your 
+lecturer to identify possible instances of plagiarism. 
+However, having similarities in your assignment does not necessarily 
+mean you have plagiarised. Turnitin does not consider whether you have 
+quoted or referenced correctly, it only points out similarities of any kind - 
+for example:
+● Direct quotes that you have properly referenced may be 
+highlighted - this is not considered plagiarism as you have clearly 
+indicated the original source
+● References in your Reference List will be highlighted at the end of 
+your work - this would not be considered plagiarism either 
+● Any use of a cover sheet for your submissions will also be included 
+in a Turnitin similarity report – again, this does not indicate 
+plagiarism.
+Turnitin also has AI detection functionality, which can help your lecturer 
+to identify possible AI generated text in your assignment.
+See the online Turnitin Guide for more information.
+NCI Library Referencing and Avoiding Plagiarism Guide
+16
+Artificial Intelligence (AI)
+Advancements in AI technology have brought many new challenges when 
+it comes to evaluating information, avoiding plagiarism and upholding 
+academic integrity. Generative AI chatbots (ChatGPT, Copilot, Gemini 
+etc.) can be useful when used responsibly and ethically. However, they 
+can also be used in ways that can violate academic integrity and impede 
+your learning, so it is important to be clear on permitted use and be 
+transparent when using AI tools.
+National College of Ireland permits the ethical use of AI tools, and the 
+college has developed a policy and guidance on how to use AI in an 
+effective and transparent way to ensure academic integrity is upheld in 
+your work. See the Use of AI in Teaching and Learning online guide for 
+more information.
+NCI students are required to have an understanding of what generative 
+AI is and how it can be used ethically and appropriately in an academic 
+context. To use generative AI (genAI) in a way that is beneficial to your 
+learning, you will need to use it selectively and strategically. Generally, 
+you will not be permitted to use AI generated text or content in your 
+assignments at NCI, unless given explicit permission by your lecturer. 
+You may be allowed to use AI tools to brainstorm, structure ideas etc., 
+but you always need to check permitted use with your lecturer and be 
+transparent about how you have used AI. If you have identified any 
+sources or references through an AI tool, you must verify that they are 
+credible sources by locating and accessing them online or through the 
+library and reading and referencing them directly rather than as described 
+by the AI tool.
+It is crucial that you are open and transparent about your use of AI. 
+If you are permitted to use AI to assist with an assignment, you will 
+need to declare what tool you used and how you used it in the AI 
+Acknowledgement Cover Sheet (available on Moodle and the library 
+website). It is also important to keep a record of any AI use (including 
+screenshots) so you can provide additional evidence of how you used AI if 
+requested. 
+NCI Library Referencing and Avoiding Plagiarism Guide
+17
+When it comes to ethically using AI at NCI, the key message is to seek 
+permission and be transparent.
+What is Generative AI?
+Generative AI is a type of artificial intelligence capable of creating content 
+such as text, images, music, video, or code in response to prompts 
+written in natural language. These tools are able to generate such content 
+because they are trained on vast datasets, typically Large Language 
+Models, allowing them to produce outputs that resemble human 
+communication. OpenAI’s ChatGPT and Microsoft’s Copilot are examples 
+of commonly used generative AI tools.
+AI and Academic Integrity
+Academic integrity is a fundamental requirement at NCI. Students 
+submitting work and assessments created by someone or something 
+else, as if it was their own, is plagiarism and violates academic integrity 
+- this includes AI-generated content. Generative AI is not an original or 
+authoritative source of information; it simply reproduces information 
+from unidentified sources. 
+AI tools must not be used unethically to pass off AI-generated text as 
+your own work. Any work submitted by you to NCI must represent a 
+genuine demonstration of your own writing, skills and knowledge. Using 
+a generative AI tool to create or re-write or paraphrase your assignment 
+and then submitting that content as your own, is cheating. Outsourcing 
+your academic work to AI in this way breaches NCI’s Academic Integrity 
+Policy. 
+Risks and Disadvantages of Using AI
+As attractive as using AI may seem, there are risks associated with using 
+AI output for your academic work and ways of using it that are not 
+appropriate or acceptable in NCI. It is crucial to be aware of the limitations 
+and risks associated with using AI in an academic setting. Remember, AI 
+tools are not databases of knowledge. They ‘predict’ combinations of 
+NCI Library Referencing and Avoiding Plagiarism Guide
+18
+plausible words; therefore, they should never be used exclusively instead 
+of recommended readings from your lecturer and library resources.
+It is also important to be aware that AI tools are prone to ‘hallucination’, 
+i.e. sometimes they generate misleading, incorrect or completely 
+fabricated information such as false references that don’t exist. They 
+also have the potential to undermine your learning by offering shortcuts 
+and diminishing critical engagement and evaluation. Any information or 
+source generated by an AI tool must not be taken at face value and must 
+be verified by seeking out reputable sources to see if it is correct and 
+authentic. It is your responsibility to check the accuracy of any AI output.
+See below for additional risks associated with using AI output for your 
+academic work:
+● AI output can be inaccurate, unreliable or false
+● AI doesn’t “think” - it is not capable of critically evaluating 
+information
+● AI tools provide you with information based on your prompt rather 
+than the true source material 
+● AI output can be biased and often dated 
+● AI often only works with content available on the surface web and 
+not content that is behind paywalls (this includes access to eBooks, 
+journal collections and other specialist databases like the kind of 
+content that NCI Library provides access to and your lecturers will 
+be looking for you to use)
+● By relying on AI to do your research or writing for you, you miss 
+out on vital learning opportunities – paraphrasing, summarising 
+and making your own notes are part of the learning process
+The more reliant you are on AI tools, the harder it will be for you to 
+research and write future assignments independently, as you will not have 
+developed the skills and knowledge you are expected to have gained from 
+previous work. It is important to remember that research and writing are 
+NCI Library Referencing and Avoiding Plagiarism Guide
+19
+skills that need to be learned and practised and are fundamental aspects 
+of any academic undertaking.
+How Can I Use AI Ethically?
+Before using any AI tool, it is important to understand the limitations of 
+the technology and be able to critically evaluate any output in terms of 
+accuracy and relevance. If you are using an AI tool to find information, 
+it is important that you search for and access any resource that it 
+recommends, in order to read the information yourself to form your own 
+conclusions and verify that it is a legitimate source. 
+Synthesising information from a range of sources through the act of 
+writing is how you develop critical thinking skills. This is the purpose of 
+researching and writing academic assignments, and what your lecturer is 
+marking you on. Any use of AI should only supplement this process, not 
+replace it. It is important that you document any AI use as you will need to 
+declare it in the AI Acknowledgement Cover Sheet.
+Suggested ways to use AI ethically:
+● To explore a new topic 
+● To generate keywords/search strategies
+● To brainstorm or create a mind map
+● To structure your ideas
+● To get an alternative insight into a topic
+● To develop new questions
+● To engage in a ‘dialogue’ on a topic by using it as an information 
+gathering tool before then consulting reputable and recommended 
+sources directly and reading them yourself
+Remember, AI tools can be useful if used ethically, but they should not be 
+used to do your work for you or used as a replacement for engaging with 
+the content your lecturer has posted on Moodle.
+NCI Library Referencing and Avoiding Plagiarism Guide
+20
+Research Assistants
+AI powered research assistants (Scite, Consensus, Elicit, SciSpace etc.) 
+are commonly used to search for and discover related research and to 
+summarise or analyse research. These can be useful for gaining an initial 
+idea of important research in a particular field or for those undertaking a 
+large amount of research. However, like any tool, they should not be used 
+as a replacement for your own critical evaluation and analysis.
+Using Grammar/Spelling Correction Tools
+Many students use tools for grammar/spelling correction or even 
+translation. However, because some tools (e.g. Grammarly) use AI to 
+generate or rephrase text, it is important that you don’t use these tools 
+to produce substantial amounts of AI-generated text in your assignments. 
+Grammar checking tools with an AI element should be used sparingly and 
+transparently, as they can violate academic integrity policy (unless you are 
+given permission to use them) and also impede the development of your 
+academic writing skills.
+If you do use a grammar correction tool with AI functionality, like 
+Grammarly, you should declare it in the AI Acknowledgement Cover Sheet. 
+This makes it clear to your lecturer how and why you have used that 
+particular tool. You should always discuss with your lecturer regarding 
+acceptable usage of grammar/spelling correction tools, and they will be 
+able to advise further. 
+NCI Library Referencing and Avoiding Plagiarism Guide
+21
+Consequences of Plagiarism and Unethical Use of AI in 
+Your Work
+Plagiarism constitutes serious academic misconduct, and the penalties are 
+severe if a student is found to have deliberately plagiarised the work of 
+another, including copying the work of other students. As a student, it is 
+your responsibility to avoid plagiarism.
+In addition, the use of AI must align with NCI’s Academic Integrity 
+Statement and Academic Integrity Policy. The unauthorised or improper 
+use of AI will be seen as academic misconduct. If your work is thought to 
+contain content that you did not create (write) yourself, it can lead to an 
+investigation and serious consequences. Where NCI cannot stand over a 
+piece of work created by a student due to inappropriate or unauthorised 
+AI use, this work will not be accepted and may lead to disciplinary action.
+As stated previously, lecturers in NCI use Turnitin (see page 16) to help 
+them detect possible instances of plagiarism and inappropriate use of AI. 
+If a lecturer has serious concerns about plagiarism or unethical use of AI, 
+they will notify you and then seek a second opinion. If their concerns are 
+found to be justified, the consequences can range from the following:
+1. Your assignment grade being capped
+2. Loss of marks in part or whole
+3. Submitting a new piece of work
+4. Suspension
+5. Expulsion
+For more information, see NCI’s Academic Integrity Policy.
+NCI Library Referencing and Avoiding Plagiarism Guide
+22
+The Basics of Referencing
+What is Referencing?
+One of the distinguishing features of academic writing is that it is 
+informed by what is already known, what work has been done before, 
+and/or what ideas and methods have already been developed. Thus, in 
+academic books and articles, writers frequently make reference to other 
+studies and to the work of other authors. At NCI, you are required to do 
+the same in your assignments and research by referring to information 
+written or created by others. An essential aspect of academic writing is 
+providing references to demonstrate to your lecturers that you have built 
+your understanding on credible sources of information.
+Information can come from many different sources (textbooks, academic 
+journals, conference papers, websites etc.), however, it is important that 
+you use good quality academic sources as much as possible. You will be 
+expected to use a variety of sources and reference them throughout your 
+assignments in order to support your work and give credit to the original 
+creators of the information.
+Referencing (or citing) means acknowledging the sources that you used 
+to inform and support your writing in your assignments. Referencing is a 
+required feature of academic writing and a skill you will need to learn.
+When you use information that someone else has written or produced, 
+you need to give them credit and ensure that the person reading your 
+assignment can easily locate the source where you found the information. 
+In order to do this consistently and accurately, we use referencing styles. 
+A referencing style is a set of rules to help you format the references 
+in your assignment, both within the text of your assignment and in a 
+reference list at the end.
+Three referencing styles are used at NCI: Harvard, APA and IEEE. Which 
+referencing style you should use depends on what course or subject 
+you are studying. Harvard is required by most courses; Psychology and 
+Education and Learning and Teaching students use APA; and Computing 
+students use either IEEE or Harvard depending on the module. 
+NCI Library Referencing and Avoiding Plagiarism Guide
+23
+It is important to check with your lecturer to ensure you are using the 
+correct referencing style.
+Why Should I Reference?
+One of the most important things you have to do in your assignments and 
+research is show your lecturers where your information comes from, so 
+that they can see you are well informed. You do this by making sure you 
+use and reference evidence to back up the claims you make. Referencing 
+is a requirement in all assignments and research conducted in NCI where 
+information has been taken from other sources - here are the main 
+reasons why you should reference:
+● To enable your reader to locate and access the sources you have 
+used and confirm/contest the information for themselves
+● To strengthen your arguments, support your own ideas and give 
+them credibility
+● To demonstrate that you have read and used relevant and good 
+quality sources for your research
+● To acknowledge and credit the original source of the information, 
+thereby avoiding plagiarism
+By properly referencing your written work, you are rightfully giving credit 
+to the words and ideas of others that you have used; you are also clearly 
+demonstrating the level of your own reading and research. By following a 
+specific referencing style, those who read and grade your work can easily 
+identify and locate the sources you have used. Also, correctly referencing 
+in your written work will improve your grades and help you to avoid 
+plagiarism.
+When Should I Reference?
+You should reference whenever you reword (paraphrase/summarise) or 
+directly quote a source of information in your writing.
+NCI Library Referencing and Avoiding Plagiarism Guide
+24
+Where Do I Reference?
+References need to be included in two different places in your 
+assignments:
+● In the text of your assignment at the exact point where you use or 
+refer to information from another source. This is called an in-text 
+citation – here you only provide the briefest details of the source 
+(author and year – Harvard/APA; number – IEEE).
+● In the reference list at the end of your assignment – here you 
+provide the full details of the source you cited in the main text of 
+your assignment including author, year and title plus other details 
+depending on the source type.
+What Referencing Style Should I Use? 
+A referencing style is a set of rules to help you format the references in 
+your assignment, both within the text and in a reference list at the end.
+This guide includes the 3 main referencing styles which are currently used 
+in NCI. These styles are:
+● Harvard – used in all courses in the School of Business plus some 
+modules in the School of Computing. See page 29.
+● APA - used by students studying Psychology, Education and 
+Learning and Teaching. See page 58.
+● IEEE – used in the School of Computing as well as the Harvard 
+style. See page 83.
+Always clarify with your lecturer which referencing style is required.
+Disclaimer: Whilst every possible effort has been made to accurately and 
+consistently reflect the APA, Harvard and IEEE styles in the examples 
+provided in this guide, small errors may occur. This guide is regularly 
+revised and any errors which are identified will be rectified in future 
+NCI Library Referencing and Avoiding Plagiarism Guide
+25
+editions. Please note, there are also variations within these styles 
+regarding certain details – should your reference vary slightly from 
+an example contained within this guide, it is important that you are 
+consistent with the variation when presenting and formatting your 
+references, as long as it does not follow a contrary style to the one you 
+should be using.
+Formulating References
+References can be typed out manually, however, there are a variety of 
+reference generators and managers available that you can use to keep 
+track of the sources you use and formulate references. It is important that 
+you understand what the referencing style you are required to use should 
+look like and what details are required so that you can enter the right 
+information into a reference manager and correct any mistakes.
+N.B. No reference manager or generator is 100% accurate, so you will 
+need to double check any references generated for accuracy using the 
+examples in this guide and manually edit references where necessary.
+Reference Managers
+Mendeley 
+Mendeley is a free reference manager available to download or use online. 
+Mendeley can be used to import and organise online resources and also to 
+create citations and references. The plugin for Microsoft Word (Mendeley 
+Cite) can be used to automatically generate references in Harvard, APA or 
+IEEE style.
+For more information, please see the Library’s dedicated Mendeley Guide
+or go to the Mendeley website: https://www.mendeley.com/
+Zotero
+Zotero is a free and open-source reference manager that can be used to 
+import and organise your research and create citations and references 
+similar to Mendeley. ZoteroBib (https://zbib.org/) can also be used to 
+quickly generate references or a reference list in Harvard, APA or IEEE 
+style.
+NCI Library Referencing and Avoiding Plagiarism Guide
+26
+For more information, please see the online Referencing and Avoiding 
+Plagiarism Guide or the Zotero website: https://www.zotero.org/
+Other Referencing Tools
+Microsoft Word 
+Microsoft Word has a built-in referencing function which is useful for 
+creating both citations and reference lists. However, Microsoft Word 
+has a limited amount of citation styles to choose from, and bibliographic 
+information on each source must be added manually.
+N.B. Recent versions of Word only include APA 6th edition so you may 
+need to edit references manually to reflect the 7th edition.
+For more information on how to create citations and references in 
+Microsoft Word, see the online Referencing and Avoiding Plagiarism 
+Guide.
+LaTeX and BibTeX
+LaTeX is a document preparation system used to format a document’s 
+structure, style and citations by using a mark-up language and plain 
+text. LaTeX is particularly useful when creating complex documents 
+which include mathematical equations or symbols. BibTeX is a reference 
+management file format and programme and is used alongside LaTeX to 
+create and prepare citations throughout a LaTeX document. 
+For more information on how to use LaTeX and BibTeX, see the online 
+Referencing and Avoiding Plagiarism Guide or go to the LaTeX website: 
+https://www.latex-project.org/
+Overleaf is a commonly used online LaTeX editor which requires no 
+download or installation, see their website for more information: https://
+www.overleaf.com/
+Websites
+In addition to the referencing tools listed previously, there are also a 
+variety of websites (MyBib, CiteThisForMe etc.) that can be used to create 
+NCI Library Referencing and Avoiding Plagiarism Guide
+27
+references. These websites can be used to generate references for a 
+variety of sources (eBooks, journal articles, websites etc.) in a variety of 
+styles (Harvard, APA and IEEE are all commonly available). 
+Referencing websites are useful if you are looking for a fast and easy way 
+to create references for an assignment. Most are free to use to generate 
+single references, but they may require you to pay to save your reference 
+list for later use. However, they are useful if you simply need to generate 
+references in the required referencing style and then add them into your 
+reference list at the end of your assignment.
+As noted previously, it is always a good idea to check the references 
+these websites create against the examples in this guide to ensure they 
+accurately reflect the sources you have read and contain the required 
+components based on the source type.
+Generative AI tools (ChatGPT, Copilot etc.)
+Generative AI tools are commonly used to formulate references in various 
+styles; however, they are not always accurate. It is important to be aware 
+of the requirements of the referencing style you are required to use, in 
+order to correct and manually edit any references formulated by an AI 
+tool. 
+When using any AI tool to formulate references, make sure to adjust 
+your prompt or instruct the tool to follow the formatting instructions for 
+Harvard, APA or IEEE contained in this guide. This is particularly important 
+for Harvard style, as several versions of the style exist, so it is important to 
+follow NCI Harvard as outlined in this guide to ensure the references are 
+accurately formatted.
+Use of AI tools to formulate references would also need to be declared in 
+the AI Acknowledgement Cover Sheet.
+NCI Library Referencing and Avoiding Plagiarism Guide
+28
+Harvard Style
+The Harvard referencing style is one of the main styles used in National 
+College of Ireland. It is also known as the ‘author date’ system. Several 
+versions of the style exist, so it is important to follow NCI Harvard as 
+outlined in this guide to ensure your references are accurate, particularly if 
+using a reference manager or generator.
+Harvard style is a two-part system, so you need to include references in 
+two different places in your work - in the text and at the end in a list of 
+references.
+Only the author surname(s) and publication year are included within 
+the text and then the full bibliographic details are provided in the list of 
+references at the end, which is titled References.
+Getting Started
+Referencing In Text
+Readers experience your writing one line at a time. When they see 
+information that isn’t common knowledge, they begin to wonder where 
+that information came from. Don’t make them wait until the end of the 
+paragraph - that’s too late. A reference needs to be made at the exact 
+point in your writing where you use information from another source. 
+This consists of a short, basic reference (Author, Year) inserted every time 
+you use or refer to someone else’s work in-text. When you do this, you 
+establish clear boundaries between your own thoughts and the work of 
+others.
+Parenthetical vs. narrative citations
+In Harvard style, there are two different ways to use in-text citations, 
+parenthetical and narrative:
+● In parenthetical citations, both the author’s name and the 
+publication date are placed in brackets (parentheses). A 
+parenthetical citation is generally placed at the end of the 
+sentence.
+NCI Library Referencing and Avoiding Plagiarism Guide
+29
+● In narrative citations, the author’s name is used as part of the 
+sentence structure and only the publication year is placed in 
+brackets directly after where the author’s name is used.
+When to use et al.
+“Et al.” is short for “and others” in Latin. In Harvard style, if a source has 
+three or more authors, you can use et al. (in italics) after the first author’s 
+surname in text, see example below:
+N.B. “Et al.” is only used in-text to save space, include all author names in 
+the corresponding reference list entry.
+Using direct quotations
+Quotations taken directly from an original source must be enclosed in 
+double quotation marks and the exact wording, spelling and syntax of 
+the original text must be used. A citation must also be added after the 
+quotation including the page number(s) where the quotation was taken 
+from (if available). 
+Example 
+parenthetical 
+citation
+Example
+NCI Library Referencing and Avoiding Plagiarism Guide
+30
+Consideration of how the business can consistently 
+meet the needs of customers is the basis of quality 
+management (Cole and Kelly, 2020).
+Example 
+narrative 
+citation
+Taylor (2019) suggests that using more positive and 
+inclusive language is key in managing diversity. 
+Robbins et al. (2017) note that working for a 
+charismatic leader may motivate employees to work 
+harder.
+Example “Projects and project management take place in an 
+environment that is broader than that of the project 
+itself” (Project Management Institute, 2013, p. 19).
+N.B. The use of direct quotations should be kept to a minimum in your 
+work and are best used only when exact wording is important, for 
+example, when providing a precise definition. It is better to put information 
+into your own words as much as possible by paraphrasing, in which case 
+you do not need to include page number(s) in your in-text citation.
+The Reference List 
+When using the Harvard referencing style, a reference also needs to be 
+included in a list of references at the end of your work. A reference list 
+provides comprehensive details of all the sources cited in the text of your 
+written work. If a reader wants to know the full details of or access a 
+source you have used, they can check your reference list. 
+As Harvard is a two-part referencing system, it is important that in-text 
+citations and reference list entries correspond - every source cited in the 
+text of your work must have a corresponding entry in the reference list. It 
+is also important to ensure that every source included in the reference list 
+is directly cited in the text - do not include a reference for a source that 
+you have not cited in text.
+The reference list should be in alphabetical order by the primary author’s 
+surname or family name; this makes it easier for your reader to locate a 
+source cited in the text of your assignment. Do not number or bullet point
+the reference list in Harvard style.
+What is a reference made of?
+A reference generally consists of the name(s) of the author(s), the year 
+and title of the source plus other components depending on the source 
+type.
+Remember, the components you need to include and the way a reference 
+is formatted depends on the type of resource. For example, a book is 
+referenced differently from a journal article, therefore, it is important that 
+you follow the correct example on the following pages depending on the 
+type of source you need to reference.
+See page 55 for an example Harvard style reference list.
+NCI Library Referencing and Avoiding Plagiarism Guide
+31
+Harvard - Core Sources
+This section provides guidance and examples on how to reference the 
+most common information sources such as books, journal articles and 
+webpages in Harvard style. There are different levels of quality when it 
+comes to information sources, so it is important to be selective with the 
+ones you use. Try to reference a variety of sources and utilise academic 
+resources (books/eBooks/journal articles) recommended by your lecturer 
+or from the library as much as possible.
+Books
+Follow this format to reference a print or hardcopy book. The place of 
+publication and the name of the publisher is included in a book reference.
+Components of a Book Reference
+NCI Library Referencing and Avoiding Plagiarism Guide
+32
+Format Examples
+Book - One author
+Taylor, S. (2019) Resourcing and talent management. 7th edn. London: 
+Kogan Page.
+Book - Two authors
+Cole, G. A. and Kelly, P. (2020) Management: Theory and practice. 9th edn. 
+Andover: Cengage.
+Book - Three authors
+Robbins, S. P., Judge, T. A. and Campbell, T. T. (2017) Organizational 
+behaviour. 2nd edn. London: Pearson.
+Book - Corporate author
+Project Management Institute (2017) A guide to the project management 
+body of knowledge: PMBOK® guide. 6th edn. Newton Square, PA: Project 
+Management Institute.
+N.B. Corporate authors can be the names of companies, organisations, 
+professional bodies, government departments etc.
+NCI Library Referencing and Avoiding Plagiarism Guide
+33
+Edited Books
+An edited book is a collection of different chapters, each written by a 
+different author, so the authors of the specific chapter you used are 
+included in the reference as well as the overall editor(s) of the book.
+Components of a Chapter of an Edited Book Reference
+Format Examples
+Chapter of an edited book – One author
+Trevor-Roberts, E. (2020) ‘Navigating the future of work to build 
+meaningful careers’, in Wilkinson, A. and Barry, M. (eds.) The future of 
+work and employment. Cheltenham, UK: Edward Elgar Publishing, pp. 204-
+222.
+Chapter of an edited book – Two authors
+MacMahon, J. and O’Brien, M. (2019) ‘Diversity and equality in 
+the workplace’, in Carbery, R. and Cross, C. (eds.) Human resource 
+management. 2nd edn. London: Red Globe Press, pp. 99-119.
+N.B. It is best practice to reference a specific chapter of an edited book 
+rather than the whole edited book.
+NCI Library Referencing and Avoiding Plagiarism Guide
+34
+eBooks
+An eBook is any book that you have accessed online, either through the 
+library’s eBook collections or elsewhere. A URL is included in the reference 
+instead of publication details so the eBook can be easily accessed by your 
+reader.
+Components of an eBook Reference
+Format Examples
+eBook - One author
+Kuratko, D. F. (2017) Entrepreneurship: Theory, process, practice. 
+10th edn. Available at: https://www.vlebooks.com/vleweb/product/
+openreader?id=NATCOLIRE&accId=9128356&isbn=9781473745551 
+[Accessed 10 April 2025].
+eBook – Two authors
+Armstrong, M. and Taylor, S. (2020) Armstrong’s handbook of 
+human resource management practice. 15th edn. Available at: https://
+ebookcentral.proquest.com/lib/ncirlie/detail.action?docID=5995878 
+[Accessed 10 April 2025]. 
+eBook – Three or more authors
+Saunders, M. N. K., Thornhill, A. and Lewis, P. (2023) Research methods 
+for business students. 9th edn. Available at: https://www.vlebooks.com/
+product/openreader?id=NATCOLIRE&accId=9128356&isbn=9781292402734 
+[Accessed 10 April 2025].
+NCI Library Referencing and Avoiding Plagiarism Guide
+35
+eBook – Corporate author
+Arthur Cox Employment Law Group (2022) Arthur Cox employment law 
+yearbook 2021. Available at: https://ebookcentral.proquest.com/lib/ncirlie/
+detail.action?docID=6984466 [Accessed 10 April 2025].
+N.B. Corporate authors can be the names of companies, organisations, 
+professional bodies, government departments etc.
+Edited eBooks
+A chapter of an edited eBook is referenced similarly to a chapter from 
+a print edited book, except a URL is included instead of the publication 
+details.
+Components of a Chapter of an Edited eBook Reference
+Format Examples
+Chapter of an edited eBook – One author
+De Vauplane, H. (2021) ‘Cryptocurrencies and central banks’, in Madir, J. 
+(ed.) Fintech: Law and regulation. 2nd edn. pp. 121-146. Available at: https://
+ebookcentral.proquest.com/lib/ncirlie/detail.action?docID=6827820 
+[Accessed 10 April 2025].
+Chapter of an edited eBook – Two authors
+Flynn, G. and Werhane, P. H. (2022) ‘A framework for leadership and ethics 
+in business and society’, in Flynn, G (ed.) Leadership and business ethics.
+2nd edn. pp. 1-9. Available at: https://ebookcentral.proquest.com/lib/
+ncirlie/detail.action?docID=6875009 [Accessed 10 April 2025].
+N.B. It is best practice to reference a specific chapter of an edited eBook 
+rather than the whole edited eBook.
+NCI Library Referencing and Avoiding Plagiarism Guide
+36
+Journal Articles
+A journal article is a report of academic research published in a journal – 
+think of a journal as an academic magazine that contains various articles 
+by different authors. Both the title of the article and the name of the 
+journal are included in the reference as well as volume, issue and page 
+numbers or article number (if available). A DOI or URL is also included so 
+the article can be easily located and accessed online.
+Components of a Journal Article Reference
+Format Examples
+Journal article – One author
+Carrera, L. (2022) ‘Corporate social responsibility: A strategy for social 
+and territorial sustainability’, International Journal of Corporate Social 
+Responsibility, 7(1), pp. 1-11. https://doi.org/10.1186/s40991-022-00074-0
+Journal article – Two authors
+Lou, C. and Yuan, S. (2019) ‘Influencer marketing: How message value 
+and credibility affect consumer trust of branded content on social media’, 
+Journal of Interactive Advertising, 19(1), pp. 58–73. https://doi.org/10.1080/1
+5252019.2018.1533501
+NCI Library Referencing and Avoiding Plagiarism Guide
+0237
+Journal article – Three or more authors
+Sheerin, C., Hughes, C. and Garavan, T. (2020) ‘Gendered practices and 
+tacit knowledge sharing in organizations: A structuration perspective’, 
+Human Resource Development International, 23(5), pp. 542-568. https://doi.
+org/10.1080/13678868.2020.1769402
+N.B. Sometimes a journal article will list an article number instead of page 
+numbers – in these cases, include the article number after the volume/
+issue number without pp. 
+N.B. If a DOI URL is not available as shown in the above examples, insert a 
+URL (Permalink) and access date instead (see eBook or webpage formats 
+for inserting URLs in references. See page 50 of this guide for more 
+information on DOIs and Permalinks).
+NCI Library Referencing and Avoiding Plagiarism Guide
+38
+Conference Papers
+Conference papers are a written record of research that was presented 
+at a conference. Both the name of the conference paper and the name, 
+location and date of the conference are included in the reference. 
+Conference papers are commonly published in a collection of proceedings, 
+so the page numbers that the specific paper appears on in the 
+proceedings are also included in the reference, as well as a DOI or URL.
+Components of a Conference Paper Reference
+Format Example
+Conference paper – Three or more authors
+Estherita, S. A., Vasantha, S. and Sungeetha, D. (2023) ‘Artificial 
+intelligence and HR digitalization facilitated by transformational 
+leadership’, in 2023 Intelligent Computing and Control for Engineering and 
+Business Systems (ICCEBS). Chennai, India, 14-15 December 2023, pp. 1–6. 
+https://doi.org/10.1109/ICCEBS58601.2023.10448700
+N.B. If the location/date of a conference paper is not listed it can be 
+omitted from the reference. Sometimes conference papers are published 
+in a journal or an edited book/eBook, in this case use the journal article or 
+edited book/eBook reference formats instead.
+NCI Library Referencing and Avoiding Plagiarism Guide
+39
+Webpages
+A webpage is a single page of information or content that is part of 
+a larger collection of pages on a website. You should reference the 
+exact webpage used rather than the homepage of the website; if you 
+use information taken from different webpages on the same website, 
+reference each webpage individually. A document from a webpage is 
+a PDF document that can be accessed or downloaded via a link on a 
+webpage, you should include a URL for the specific document, if possible, 
+rather than the webpage it was accessed from.
+Components of a Webpage Reference
+Format Examples
+Webpage – One author
+Ali, L. (2022) Equality, diversity and inclusion (EDI) in the workplace.
+Available at: https://www.cipd.org/ie/knowledge/factsheets/diversityfactsheet/ [Accessed 10 April 2025].
+Document from a webpage – (PDF etc.)
+Honohan, P. (2021) Is Ireland really the most prosperous country in Europe?
+Available at: https://www.centralbank.ie/docs/default-source/publications/
+economic-letters/vol-2021-no-1-is-ireland-really-the-most-prosperouscountry-in-europe.pdf [Accessed 10 April 2025].
+NCI Library Referencing and Avoiding Plagiarism Guide
+40
+N.B. Webpages and documents from a webpage (reports etc.) follow 
+the same formatting rules for referencing, the URL of the source is not 
+a sufficient reference by itself. Full reference details are required in the 
+reference list. If you have used more than one page from a website, you 
+will need a separate reference for each page used.
+However, it can be more difficult to identify the author and publication 
+date of websites or webpages. Where no author is clearly identified, you 
+can use the name of the website but be sure that there is no individual 
+author credited either at the beginning or the end of the webpage/
+document before making that decision.
+If no obvious date for the webpage is evident, scroll to the bottom of the 
+page and use the copyright year listed there; if there is no year specifically 
+mentioned at all, then use the current year at the time of writing.
+A note on using webpages: It’s important to be selective in the webpages 
+you choose to support your writing as more randomly chosen websites 
+may not be considered valid academic sources. For this source type, try 
+and prioritise websites that your lecturers have indicated are reputable 
+sources in their recommended readings and online Moodle content
+NCI Library Referencing and Avoiding Plagiarism Guide
+41
+Online News Articles/Blogs
+An online news article is any article from the online version of a 
+newspaper (e.g. The Irish Times, The Guardian, The Financial Times etc.). 
+A blog is a regularly updated website that publishes informal diary-like 
+articles typically authored by one person. Both sources are referenced 
+similarly to webpages, however, the name of the newspaper/blog is 
+included and the day/month of publication.
+Components of an Online News Article/Blog Reference
+Format Examples
+Online news article
+Corrigan, E. (2022) ‘How ethical is it to use AI in insurance?’, The 
+Irish Times, 4 May. Available at: https://www.irishtimes.com/specialreports/2023/05/04/how-ethical-is-it-to-use-ai-in-insurance/ [Accessed 10 
+April 2025].
+Blog
+Whelan, K. (2021) ‘Are central banks storing up a future fiscal problem?’, 
+Karl Whelan, 16 July. Available at: https://karlwhelan.com/blog/?p=2087 
+[Accessed 10 April 2025].
+NCI Library Referencing and Avoiding Plagiarism Guide
+42
+Case Studies
+A case study is a detailed description of a real-life situation, organisation 
+or event over a period of time. They are often used as part of a case study 
+based assignment which requires you to analyse problems and identify 
+solutions or alternative approaches and discuss the relationship between 
+theory and practice. Case studies are mostly available online and so are 
+referenced similarly to webpages, however, the label [Case Study] is 
+included after the title.
+Components of a Case Study Reference
+Format Example
+Case study
+Zum Hebel, M., Gladstone, M. and Lauth, L. (2023) Coca-Cola: Rewriting 
+the book on Christmas [Case Study]. Available at: https://www.warc.com/
+content/article/warc-awards-effectiveness/coca-cola-rewriting-the-bookon-christmas/150655#about-the-author [Accessed 10 April 2025].
+NCI Library Referencing and Avoiding Plagiarism Guide
+43
+NCI Library Referencing and Avoiding Plagiarism Guide
+44
+Format 
+Example
+The Wall Street Journal (2024) From Wall Street 
+Journal Opinion: Will AI become humanlike? Conscious? 
+Not so fast. Large language models are impressive, 
+but they are still statistical models mimicking human 
+thinking, writes Andy Kessler [Facebook], 22 October. 
+Available at: https://www.facebook.com/WSJ/posts/
+from-wall-street-journal-opinion-will-ai-becomehumanlike-conscious-not-so-fast-/929918052328126/ 
+[Accessed 10 April 2025].
+Components Author Name (as it appears in post) (Year of post) 
+Title of post (in italics) [Social Media Platform], Date 
+and Month of post. Available at: URL [Accessed Day 
+Month Year].
+Components Author Surname, Initial(s). (Year of publication) Title 
+of video (in italics). Available at: URL [Accessed Day 
+Month Year].
+Format 
+Example
+Sinek, S. (2023) Rethinking employee empowerment 
+and loyalty. Available at: https://www.youtube.com/
+watch?v=dYPTWWcPva4 [Accessed 10 April 2025].
+Harvard – Additional Sources
+This section provides guidance and examples on how to reference 
+additional information sources that you might encounter such as social 
+media, online videos, podcasts and legislation in Harvard style. Some 
+of these sources (social media, online videos and podcasts) are not 
+considered to be equivalent to high quality academic texts so you should 
+always check with your lecturer before using in your assignments.
+Social Media - Facebook/Instagram/X/LinkedIn
+Online Videos - YouTube etc.
+Podcasts
+Encyclopedias/Dictionaries
+Print
+NCI Library Referencing and Avoiding Plagiarism Guide
+45
+Format 
+Example
+Components Author/Presenter Surname, Initial(s). (Year of 
+publication) ‘Title of episode’ (in single quotation 
+marks), Title of Podcast (in italics) [Podcast], Day 
+Month of post. Available at: URL [Accessed Day 
+Month Year].
+Hancock, C. (2023) ‘Accountability for bankers and 
+how it will work’, Inside Business with Ciaran Hancock [Podcast], 7 June. Available at: https://open.
+spotify.com/episode/4JKKetokSXnlmFiqGQLxGS?si-
+=e47817e7284c48cd [Accessed 10 April 2025].
+Components Author Surname, Initial(s). (Year of publication) ‘Title 
+of encyclopedia/dictionary entry’ (in single quotation 
+marks), Title of Encyclopedia/Dictionary (in italics). 
+Place of Publication: Publisher.
+Format 
+Example
+Channon, D. F. (1997) ‘Globalization’, The Blackwell 
+encyclopedia of management volume II: Strategic 
+management. Oxford: Blackwell Business.
+Online
+Legislation
+Act
+Components Author Surname, Initial(s). (Year of publication) ‘Title 
+of encyclopedia/dictionary entry’ (in single quotation 
+marks), Title of Encyclopedia/Dictionary (in italics). 
+Available at: URL [Accessed Day Month Year].
+Format 
+Example
+Prabhakar, R. (2023) ‘Corporate governance’, 
+Encyclopaedia Britannica. Available at https://
+www.britannica.com/topic/corporate-governance 
+[Accessed 10 April 2025].
+Components Country of Act. Title of the Act (in italics and including 
+the year). No. (if any), (section of legislation if 
+specified in-text). Place of Publication: Publisher or 
+Available at: URL [Accessed Day Month Year].
+Format 
+Example
+Ireland. Organisation of Working Time Act, 1997. No. 
+20. Available at: https://www.irishstatutebook.ie/
+eli/1997/act/20/enacted/en/html [Accessed 10 April 
+2025].
+NCI Library Referencing and Avoiding Plagiarism Guide
+46
+Legal Cases/Law Reports
+EU Directive
+Components Title of Directive (all words in italics – should include 
+institutional origin, year, legislation number, the date it 
+was passed and the title). Available at: URL [Accessed 
+Day Month Year].
+Format 
+Example
+Directive 2014/95/EU of the European Parliament and 
+of the Council of 22 October 2014 amending Directive 
+2013/34/EU as regards disclosure of non-financial and 
+diversity information by certain large undertakings and 
+groups. Available at: https://eur-lex.europa.eu/legalcontent/EN/TXT/?uri=celex%3A32014L0095 [Accessed 
+10 April 2025].
+Components ‘Name of party v. Name of party’ (Year) Name 
+of Court, case no. Database or website (in italics).
+Available at: URL [Accessed Day Month Year].
+Format 
+Example
+‘Smith v. The Health Service Executive’ (2013) 
+Irish High Court, case 360. Courts Service of 
+Ireland. Available at: https://www.courts.ie/acc/
+alfresco/10111491-b200-4d11-b9d5-0e2f81957bb6/2013_
+IEHC_360_1.pdf [Accessed 10 April 2025].
+NCI Library Referencing and Avoiding Plagiarism Guide
+47
+Theses/Dissertations
+N.B. It is generally not recommended to reference theses/dissertations 
+unless commenting on their own research – it is much better practice 
+to find the sources they have used and reference those sources directly, 
+particularly if you are consulting a recent thesis/dissertation.
+Lecture Notes/Slides
+It is not recommended to directly reference lecture notes or slides; ideally, 
+you should be using these as a starting point to explore the books and 
+resources discussed and highlighted in class and provide evidence to your 
+lecturer of wider reading and research.
+Diagrams/Charts/Images/Tables
+Follow the format for the type of source from which the diagram/chart/
+image/table is taken, i.e. a book/eBook, journal article, webpage etc.
+N.B. If you use the exact same diagram/chart/image/table as featured 
+within the source, make sure to give the exact caption title and put the 
+in-text citation just beneath the diagram/chart/image/table with a page 
+number (if applicable).
+Components Author Surname, Initial(s). (Year of publication) Title 
+of thesis/dissertation (in italics). BA/BSc/MA/MSc/Ph.D. 
+thesis/dissertation. Place of Publication: Institution 
+where submitted. Available at: URL [Accessed Day 
+Month Year].
+Format 
+Example
+Wall, L. (2022) The relationship between social media 
+advertising factors and purchase intentions amongst 
+millennials in Ireland: a quantitative study. MSc thesis. 
+Dublin, National College of Ireland. Available at: 
+https://norma.ncirl.ie/6433/1/lukewall.pdf [Accessed 10 
+April 2025].
+NCI Library Referencing and Avoiding Plagiarism Guide
+48
+Harvard – Additional Notes
+Formulating References
+References can always be typed manually, following the examples 
+contained within this guide. However, there is also reference 
+management software such as Mendeley or Zotero and numerous 
+websites that can assist you in formulating references for most of the core 
+sources in Harvard style. Microsoft Word also has a built-in referencing 
+tool.
+See page 26-28 of this guide and the online Referencing and Avoiding 
+Plagiarism guide for further information.
+N.B. Referencing tools are not always accurate so always double check 
+your references are correct according to NCI Harvard style requirements 
+as outlined in this guide.
+Block Quotations
+While the use of direct quotations should be kept to a minimum in your 
+work, sometimes it may be necessary to provide a longer quotation 
+(longer than approximately 30-40 words) particularly when recording 
+excerpts of interviews in thesis work. In these cases, quotation marks 
+are not used; instead, the entire quotation is indented and single spaced 
+with a blank line above and below. If you choose to omit some part of a 
+quotation, then indicate this by inserting three spaced dots (. . .) in place 
+of the removed text.
+No Known Author
+Sometimes there is no formal information about the author. This may 
+occur because the author is not known, or the publisher/organisation 
+is considered the author. In this case, the name of the publisher/
+organisation should be used as the author both in-text and in the 
+reference list.
+NCI Library Referencing and Avoiding Plagiarism Guide
+49
+If there is no known author (person, publisher or organisation) to credit, 
+then it is not advisable to use the source as it may not be the best quality.
+DOIs/Permalinks
+When referencing online resources such as eBooks, journal articles or 
+webpages, you are required to include a URL (or link) in the reference, this 
+is important for two main reasons:
+● To make it easier for your reader to access the sources you used 
+and verify the information for themselves
+● To demonstrate that you have used good quality, legitimate 
+academic resources
+There are two main types of URLs that are commonly included in 
+references for online resources, DOIs and Permalinks.
+What is a DOI?
+A DOI, or Digital Object Identifier, is a series of numbers, letters and 
+symbols used to permanently identify a digital resource. DOIs give a digital 
+resource (journal article, conference paper, document or eBook) a unique, 
+persistent identifier that does not change, allowing your reader to easily 
+access the resource online.
+Where to find a DOI
+DOIs always start with 10 and can be found either on the record page 
+(if searching on Discovery or in a database) or within the resource itself 
+(often on the first page or in the header or footer of a journal article).
+N.B. Not all articles or resources have a DOI.
+How to include a DOI in a reference
+You can include a DOI at the end of a reference to allow your reader to 
+easily access the resource online. See below for an example of how to 
+include a DOI in a Harvard style journal article reference:
+NCI Library Referencing and Avoiding Plagiarism Guide
+50
+In Harvard style, if an online resource has no DOI, you should include a 
+permalink or persistent link in the reference instead. A permalink is a 
+stable URL that will not change, break or expire. Many databases have an 
+option for creating a permalink – see the online Referencing and Avoiding 
+Plagiarism Guide for more information.
+Authors Referring to Other Authors – Secondary Referencing
+In academic sources, authors commonly refer to other authors. This can 
+be difficult to navigate when referencing in your written work – see our 
+advice below:
+● If possible, try and locate the original author/source of the 
+information referred to and then you can access and reference it 
+directly
+● Avoid referencing a source that you have not directly accessed and 
+read yourself, i.e. you have only found it within another source – to 
+do so, gives a false idea of the sources you have actually read and 
+used for your assignment
+● Try and use a passage of text that does not refer to other authors 
+at all, this allows you to credit the main authors of the source you 
+are reading directly and eliminates the need to credit other authors 
+mentioned in the text
+DOI format https://doi.org/10.1186/s40991-022-00074-0
+Reference 
+example
+Carrera, L. (2022) ‘Corporate social responsibility: 
+A strategy for social and territorial sustainability’, 
+International Journal of Corporate Social 
+Responsibility, 7(1), pp. 1-11. https://doi.org/10.1186/
+s40991-022-00074-0
+NCI Library Referencing and Avoiding Plagiarism Guide
+51
+However, sometimes the above options may not be possible – in these 
+cases, if you still need to use the information, you need to reference both 
+the author(s) of the source you are reading and the author(s) referred to 
+in text (secondary referencing)
+In this example, only Farnham would be included in the reference list 
+because you did not directly consult the Marchington et al. source. Also 
+note, only the year of the source consulted is featured (i.e. Farnham), not 
+the year of the source mentioned within the text.
+Citing Multiple Sources In-Text – Chronological, Then 
+Alphabetical Order
+When providing multiple citations in text, list the citations chronologically 
+(newest first) separated by a semi-colon; if you have two or more sources 
+from the same year, list them alphabetically in the order they would 
+appear in the reference list.
+Acronyms or Abbreviations
+An acronym or abbreviation can be used for a source to which you refer 
+frequently. Give the name of the source in full on the first occasion it 
+appears in the text and then use the abbreviation thereafter both in your 
+text and as part of an in-text citation.
+Example
+Example (Chen et al., 2010; Dyson, 2010; Connolly, 2003).
+NCI Library Referencing and Avoiding Plagiarism Guide
+52
+Marchington et al. (cited in Farnham, 2015) have 
+provided a fairly abrupt definition of HRM.
+The full name and abbreviation should also feature in the full reference in 
+the reference list.
+Reference List Tips 
+● All references should be listed alphabetically by the primary 
+author’s surname or family name (regardless of the order you 
+referred to them in your text); if the author is a company or 
+organisation, this is also listed alphabetically with the other 
+sources. There is no division of source types, all sources are 
+listed together
+● You should include all sources that you have cited in the text 
+of your work, ensuring that the publication dates and spellings 
+of author names are consistent both in the text and in the 
+corresponding reference list entries
+● Do not include any sources that have not been referred to intext
+● Different works by the same author are arranged in date order 
+(the earliest work is first)
+Example “The National Economic and Social Forum (NESF) 
+is a government-appointed social partnership body 
+that provides advice on economic and social policies, 
+especially those that seek to achieve greater equality and social inclusion in our society. It is the largest 
+and most representative of the partnership bodies” 
+(NESF, 2009).
+NCI Library Referencing and Avoiding Plagiarism Guide
+53
+● When you have multiple references with the same author 
+and year, you can differentiate between them by inserting a 
+letter next to the year both in-text and in the reference list, 
+e.g. (CIPD, 2025a) and (CIPD, 2025b). In the reference list, 
+list the references with the same author and the same year, 
+alphabetically by title, apply the labels based on this order 
+and then add the correct label to the corresponding in-text 
+citation(s) so it is clear which of the sources you are referring to 
+in text
+● Do not number or bullet point the reference list in Harvard style
+● Do not include a source in your reference list that you have not 
+read yourself, i.e. it has only been referred to in another source 
+you read
+See the sample Harvard reference list on the following pages.
+NCI Library Referencing and Avoiding Plagiarism Guide
+54
+Harvard – Sample Reference List
+References
+Ali, L. (2022) Equality, diversity and inclusion (EDI) in the workplace.
+Available at: https://www.cipd.org/ie/knowledge/factsheets/diversityfactsheet/ [Accessed 10 April 2025].
+Armstrong, M. and Taylor, S. (2020) Armstrong’s handbook of 
+human resource management practice. 15th edn. Available at: https://
+ebookcentral.proquest.com/lib/ncirlie/detail.action?docID=5995878 
+[Accessed 10 April 2025]. 
+Arthur Cox Employment Law Group (2022) Arthur Cox employment law 
+yearbook 2021. Available at: https://ebookcentral.proquest.com/lib/ncirlie/
+detail.action?docID=6984466 [Accessed 10 April 2025].
+Carrera, L. (2022) ‘Corporate social responsibility: A strategy for social 
+and territorial sustainability’, International Journal of Corporate Social 
+Responsibility, 7(1), pp. 1-11. https://doi.org/10.1186/s40991-022-00074-0
+Cole, G. A. and Kelly, P. (2020) Management: Theory and practice. 9th edn. 
+Andover: Cengage.
+Corrigan, E. (2022) ‘How ethical is it to use AI in insurance?’, The 
+Irish Times, 4 May. Available at: https://www.irishtimes.com/specialreports/2023/05/04/how-ethical-is-it-to-use-ai-in-insurance/ [Accessed 10 
+April 2025].
+De Vauplane, H. (2021) ‘Cryptocurrencies and central banks’, in Madir, J. 
+(ed.) Fintech: Law and regulation. 2nd edn. pp. 121-146. Available at: https://
+ebookcentral.proquest.com/lib/ncirlie/detail.action?docID=6827820 
+[Accessed 10 April 2025].
+Estherita, S. A., Vasantha, S. and Sungeetha, D. (2023) ‘Artificial 
+intelligence and HR digitalization facilitated by transformational 
+leadership’, in 2023 Intelligent Computing and Control for Engineering and 
+Business Systems (ICCEBS). Chennai, India, 14-15 December 2023, pp. 1–6. 
+https://doi.org/10.1109/ICCEBS58601.2023.10448700
+NCI Library Referencing and Avoiding Plagiarism Guide
+55
+Flynn, G. and Werhane, P. H. (2022) ‘A framework for leadership and ethics 
+in business and society’, in Flynn, G (ed.) Leadership and business ethics.
+2nd edn. pp. 1-9. Available at: https://ebookcentral.proquest.com/lib/
+ncirlie/detail.action?docID=6875009 [Accessed 10 April 2025].
+Honohan, P. (2021) Is Ireland really the most prosperous country in Europe?
+Available at: https://www.centralbank.ie/docs/default-source/publications/
+economic-letters/vol-2021-no-1-is-ireland-really-the-most-prosperouscountry-in-europe.pdf [Accessed 10 April 2025].
+Kuratko, D. F. (2017) Entrepreneurship: Theory, process, practice. 
+10th edn. Available at: https://www.vlebooks.com/vleweb/product/
+openreader?id=NATCOLIRE&accId=9128356&isbn=9781473745551 
+[Accessed 10 April 2025].
+Lou, C. and Yuan, S. (2019) ‘Influencer marketing: How message value 
+and credibility affect consumer trust of branded content on social media’, 
+Journal of Interactive Advertising, 19(1), pp. 58–73. https://doi.org/10.1080/1
+5252019.2018.1533501
+MacMahon, J. and O’Brien, M. (2019) ‘Diversity and equality in 
+the workplace’, in Carbery, R. and Cross, C. (eds.) Human resource 
+management. 2nd edn. London: Red Globe Press, pp. 99-119.
+Project Management Institute (2017) A guide to the project management 
+body of knowledge: PMBOK® guide. 6th edn. Newton Square, PA: Project 
+Management Institute.
+Robbins, S. P., Judge, T. A. and Campbell, T. T. (2017) Organizational 
+behaviour. 2nd edn. London: Pearson.
+Saunders, M. N. K., Thornhill, A. and Lewis, P. (2023) Research methods 
+for business students. 9th edn. Available at: https://www.vlebooks.com/
+product/openreader?id=NATCOLIRE&accId=9128356&isbn=9781292402734 
+[Accessed 10 April 2025].
+NCI Library Referencing and Avoiding Plagiarism Guide
+56
+Sheerin, C., Hughes, C. and Garavan, T. (2020) ‘Gendered practices and 
+tacit knowledge sharing in organizations: A structuration perspective’, 
+Human Resource Development International, 23(5), pp. 542-568. https://doi.
+org/10.1080/13678868.2020.1769402
+Taylor, S. (2019) Resourcing and talent management. 7th edn. London: 
+Kogan Page.
+Trevor-Roberts, E. (2020) ‘Navigating the future of work to build 
+meaningful careers’, in Wilkinson, A. and Barry, M. (eds.) The future of 
+work and employment. Cheltenham, UK: Edward Elgar Publishing, pp. 204-
+222.
+Whelan, K. (2021) ‘Are central banks storing up a future fiscal problem?’, 
+Karl Whelan, 16 July. Available at: https://karlwhelan.com/blog/?p=2087 
+[Accessed 10 April 2025].
+NCI Library Referencing and Avoiding Plagiarism Guide
+57
+APA Style
+The American Psychological Association (APA) referencing style is most 
+commonly used in the social sciences. It is currently used for courses such 
+as Psychology, Education, and Learning and Teaching at National College 
+of Ireland.
+If you are required to use APA style referencing, please ensure you follow 
+the 7th edition guidelines. For more information regarding the 7th edition, 
+you can borrow a copy of the APA Publication Manual from the library or 
+see the APA Style website.
+The APA style is a two-part author-date system which includes in-text 
+citations throughout the written work and then the full details of the 
+sources cited in text are provided at the end of the work in a list titled 
+Reference List.
+Getting Started
+Referencing In Text
+Readers experience your writing one line at a time. When they see 
+information that isn’t common knowledge, they begin to wonder where 
+that information came from. Don’t make them wait until the end of the 
+paragraph - that’s too late. A reference needs to be made at the exact 
+point in your writing where you use information from another source. 
+This consists of a short, basic reference (Author, Year) inserted every time 
+you use or refer to someone else’s work in-text. When you do this, you 
+establish clear boundaries between your own thoughts and the work of 
+others.
+Parenthetical vs. narrative citations
+In APA style, there are two different ways to use in-text citations, 
+parenthetical and narrative:
+● In parenthetical citations, both the author’s name and the 
+publication date are placed in brackets (parentheses). A 
+parenthetical citation is generally placed at the end of the sentence
+NCI Library Referencing and Avoiding Plagiarism Guide
+58
+● In narrative citations, the author’s name is used as part of the 
+sentence structure and only the publication year is placed in 
+brackets directly after where the author’s name is used.
+When to use et al.
+In APA style, if a source has three or more authors, you can use et al. after 
+the first author’s surname to save space in text, see example below:
+N.B. All author names must be included in the corresponding reference list 
+entry.
+Using direct quotations
+Quotations taken directly from an original source must be enclosed in 
+double quotation marks and the exact wording, spelling and syntax of the 
+original text must be used. When a direct quote is used, include the page 
+number(s) the quote was taken from and add it to the in-text citation as 
+shown in the example below. 
+Example 
+parenthetical 
+citation
+Young adults are likely to understand the need to be 
+realistic and pragmatic (Santrock, 2019).
+Example 
+narrative 
+citation
+Boyd and Bee (2015) outline that human development is the study of a whole range of changes that 
+occur as they get older.
+Example According to Shaughnessy et al. (2015), all researchers and scientists have their part to play in maintaining the integrity of research.
+NCI Library Referencing and Avoiding Plagiarism Guide
+59
+N.B. The use of direct quotations should be kept to a minimum in 
+your work and are best used only when exact wording is important, 
+for example, when providing a precise definition. It is better to put 
+information into your own words as much as possible by paraphrasing, 
+in which case you do not need to include page number(s) in your in-text 
+citation. However, you can include them if it would help the reader to 
+locate the quotation within a long or complex work (e.g. a book).
+The Reference List
+When using the APA referencing style, a corresponding reference for each 
+source cited in text needs to be included in the reference list at the end of 
+your work. A reference list provides comprehensive details of the sources 
+used throughout your assignment or research. If a reader wants to know 
+the full details of a source you have used, they can refer to your reference 
+list.
+The reference list should be in alphabetical order by the primary author’s 
+surname or family name, this makes it easier for your reader to locate a 
+source cited in the text of your assignment in your list of references. Do 
+not number or bullet point the reference list in APA style.
+Hanging indentation:
+In your reference list, if a reference entry spans across more than one line, 
+all of the lines after the first line of the entry should be indented one-half 
+inch from the left margin. 
+What is a reference made of?
+A reference generally consists of the name(s) of the author(s), the year 
+and title of the source plus other components depending on the source 
+type.
+Example “A critical part of the writing process is helping 
+readers place your contribution in context by citing 
+the researchers who influenced you” (American 
+Psychological Association, 2010, p. 169).
+NCI Library Referencing and Avoiding Plagiarism Guide
+60
+Remember, the components you need to include and the way a reference 
+is formatted depends on the type of resource. For example, a book is 
+referenced differently from a journal article, therefore, it is important that 
+you follow the correct example on the following pages depending on the 
+type of source you need to reference.
+See page 81 of this guide for an example APA style reference list.
+Paper Format
+According to APA 7th edition guidelines, a specific format should be used 
+throughout your document. It is recommended that the format includes 
+the following:
+● 1 inch margins on all sides of the page (top, bottom, left, and right)
+● A legible font. For example: 11-point Calibri, 11-point Arial, 12-point 
+Times New Roman or 11-point Georgia
+● Use double-spacing for the entire paper (including block 
+quotations and the reference list). Do not add blank lines before or 
+after headings. Do not add extra spacing between paragraphs
+● Align paragraphs of text to the left margin. Indent the first line of 
+every paragraph of text 0.5 in.
+● Put a page number in the top right corner of every page, including 
+the title page
+See the APA Style website for additional guidance on paper format.
+NCI Library Referencing and Avoiding Plagiarism Guide
+61
+APA - Core Sources
+This section provides guidance and examples on how to reference the 
+most common information sources such as books, journal articles and 
+webpages in APA style. There are different levels of quality when it comes 
+to information sources, so it is important to be selective with the ones you 
+use. Try to reference a variety of sources and utilise academic resources 
+(books/eBooks/journal articles) recommended by your lecturer or from 
+the library as much as possible.
+Books/eBooks
+Use the same format for both hard copy books and eBooks. If an eBook 
+is from an academic research database (APA PsycBooks, Proquest Ebook 
+Central, EBSCOhost etc.) and has no DOI, end the book reference after the 
+publisher’s name - the reference in this case is the same as a print book. 
+Components of a Book/eBook Reference
+Format Examples
+Book/eBook - One author
+Kalat, J. W. (2021). Introduction to psychology (12th ed.). Cengage.
+Book/eBook - Two authors
+Howitt, D., & Cramer, D. (2020). Research methods in psychology (6th ed.). 
+Pearson.
+NCI Library Referencing and Avoiding Plagiarism Guide
+62
+Book/eBook - Three or more authors
+Aronson, E., Wilson, T. D., & Sommers, S. R. (2020). Social psychology (10th 
+global ed.). Pearson.
+Book/eBook - Corporate author
+American Psychiatric Association. (2022). Diagnostic and statistical manual 
+of mental disorders (5th ed., text rev.).
+N.B. When the author and the publisher are the same (e.g. American 
+Psychiatric Association), the name is listed as the author only to avoid 
+repetition in the reference. 
+Further guidance on referencing eBooks in APA style
+If an eBook has a DOI, include the DOI in the reference after the 
+publisher’s name as shown in the example below:
+eBook - With DOI
+Jackson, L. M. (2019). The psychology of prejudice: From attitudes to social 
+action (2nd ed.). American Psychological Association. https://doi.
+org/10.1037/0000168-000
+When referencing an eBook that is not from an academic research 
+database (e.g. Google Books, DOAB etc.), include a stable URL (Permalink) 
+in the reference after the publisher’s name as shown in the example 
+below:
+eBook - With URL (Permalink)
+Huron, D. (2024). The science of sadness. MIT Press. https://directory.
+doabooks.org/handle/20.500.12854/146745
+NCI Library Referencing and Avoiding Plagiarism Guide
+63
+Edited Books/eBooks
+An edited book is a collection of different chapters, each written by a 
+different author, so the authors of the specific chapter you used are 
+included in the reference as well as the overall editor(s) of the book.
+Components of an Edited Book/eBook Reference
+Format Examples
+Chapter of an edited book/eBook - One author
+Sturgis, P. (2020). Surveys and sampling. In G. M. Breakwell, D. B. Wright, 
+& J. Barnett (Eds.), Research methods in psychology (5th ed., pp. 
+373-393). Sage.
+Chapter of an edited book/eBook - Two authors
+Freeman, L., & Sullivan, C. (2019) Thematic analysis. In C. Sullivan, & M. A. 
+Forrester (Eds.), Doing qualitative research in psychology: A practical 
+guide (2nd ed., pp. 161-184). Sage.
+N.B. It is best practice to reference a specific chapter of an edited book 
+rather than the whole edited book.
+N.B. If an edited eBook has a DOI, include the DOI in the reference after 
+the publisher’s name.
+NCI Library Referencing and Avoiding Plagiarism Guide
+64
+Journal Articles
+A journal article is a report of academic research published in a journal – 
+think of a journal as an academic magazine that contains various articles 
+by different authors. Both the title of the article and the name of the 
+journal are included in the reference as well as volume, issue and page 
+numbers or article number (if available). A DOI is also included so the 
+article can be easily located and accessed online.
+Components of a Journal Article Reference
+Format Examples
+Journal article – One author
+Wood, W. (2017). Habit in personality and social psychology. Personality 
+and Social Psychology Review, 21(4), 389-403. https://doi.
+org/10.1177/1088868317720362
+Journal article – Two authors
+Huppatz, K., & Ross-Smith, A. (2017). A discipline at the crossroads? Using 
+a gender-inspired paradigm to reposition the sociology of work 
+and employment. Journal of Sociology, 53(4), 756-770. https://doi.
+org/10.1177/1440783317743810
+NCI Library Referencing and Avoiding Plagiarism Guide
+65
+Journal article – Three or more authors
+Hakanen, J. J., Peeters, M. C. W., & Schaufeli, W. B. (2018). Different types 
+of employee well-being across time and their relationship with job 
+crafting. Journal of Occupation Health Psychology, 23(2), 289-301. 
+https://doi.org/10.1037/ocp0000081
+N.B. If an online/electronic journal article does not have a DOI and is from 
+an academic database accessed via the library (e.g. APA PsycArticles), end 
+the reference after the page range, do not include a URL.
+N.B. Sometimes a journal article will list an article number instead of page 
+numbers – in these cases, just list the article number after the volume/
+issue number instead of the page numbers.
+NCI Library Referencing and Avoiding Plagiarism Guide
+66
+Conference Papers/Proceedings
+Conference papers are a written record of research that was presented 
+at a conference. Both the title of the conference paper and the name 
+of the conference are included in the reference. Conference papers are 
+commonly published in a collection of proceedings so the page numbers 
+that the specific paper appears on in the proceedings are also included in 
+the reference as well as a DOI.
+Components of a Conference Paper Reference (Published in a Journal/
+Proceedings)
+N.B. Conference proceedings published in a journal follow the same 
+format as journal articles.
+Other Format Examples
+Conference presentation - Paper/poster etc.
+Components Author Surname, Initial(s). (Year of conference, 
+Month Day(s)). Title of paper/poster (in italics) [Type 
+of contribution]. Title of Conference, Location. 
+Format 
+Example
+Feeney, J. (2023, August 29-30). Using population 
+cohort data to investigate the relationship 
+between stress and healthy brain ageing 
+[Conference presentation]. Neuroscience 
+Ireland Conference 2023, Dublin, Ireland.
+NCI Library Referencing and Avoiding Plagiarism Guide
+67
+N.B. Describe the presentation in square brackets after the title (e.g. 
+[Conference presentation], [Paper presentation], [Poster presentation] 
+etc.).
+Conference proceedings - Chapter of an edited book
+NCI Library Referencing and Avoiding Plagiarism Guide
+68
+Components Author Surname, Initial(s)., Author Surname, 
+Initial(s)., & Author Surname, Initial(s). (Year of 
+publication). Title of chapter. In Editor Initial(s). 
+Surname (Ed(s).), Title of book series: Vol. (in italics). 
+Subseries (in italics) (pp. page numbers of chapter). 
+Publisher. https://doi.org/xxxx
+Format 
+Example
+Mahmud, T., Barua, K., Barua, A., Das, S., Basnin, 
+N., Hossain, M. S., Andersson, K., Kaiser, M. S., 
+& Sharmen, N. (2023). Exploring deep transfer 
+learning ensemble for improved diagnosis and 
+classification of Alzheimer’s disease. In F. Liu, Y. 
+Zhang, H. Kuai, E. F. Stephen, & H. Wang (Eds.), 
+Lecture notes in computer science: Vol. 13974. 
+Brain informatics (pp. 109–120). Springer. https://
+doi.org/10.1007/978-3-031-43075-6_10
+Webpages
+A webpage is a single page of information or content that is part of 
+a larger collection of pages on a website. You should reference the 
+exact webpage used rather than the homepage of the website; if you 
+use information taken from different webpages on the same website, 
+reference each webpage individually. A document from a webpage is 
+a PDF document that can be accessed or downloaded via a link on a 
+webpage, you should include a URL for the specific document, if possible, 
+rather than the webpage it was accessed from.
+Components of a Webpage Reference
+Format Examples
+Webpage
+Santoro, H. (2023, January 1). The push for more equitable research is 
+changing the field. American Psychological Association. https://
+www.apa.org/monitor/2023/01/trends-inclusivity-psychologicalresearch
+Document from a webpage (PDF etc.)
+Sweeney, J. (2013). A strategic review of further education and training 
+and the unemployed. Department of Education and Skills. https://
+www.education.ie/en/Publications/Education-Reports/A-StrategicReview-of-Further-Education-and-Training-and-the-Unemployed.
+pdf
+N.B. For corporate/organisational authors, if the author of the webpage 
+and the site name are the same, omit the publisher/website name to avoid 
+repetition in the reference
+NCI Library Referencing and Avoiding Plagiarism Guide
+69
+Online News Articles/Blogs
+An online news article is any article from the online version of a 
+newspaper (e.g. The Irish Times, The Guardian, The Financial Times etc.). 
+A blog is a regularly updated website that publishes informal diary-like 
+articles typically authored by one person. Both sources use the same 
+referencing format.
+Components of an Online News Article/Blog Reference
+Format Examples
+Online news article
+O’Connell, J. (2018, May 19). Jennifer O’Connell: Why do we live in a 
+culture that venerates stress? The Irish Times. https://www.
+irishtimes.com/life-and-style/people/jennifer-oconnell-why-do-welive-in-a-culture-that-venerates-stress-1.3491747
+Blog
+Shepard, B. (2022, December 15). How does music affect your brain? 
+Livescience. https://www.livescience.com/how-does-music-affectyour-brain
+NCI Library Referencing and Avoiding Plagiarism Guide
+70
+APA – Additional Sources
+This section provides guidance and examples on how to reference 
+additional information sources that you might encounter such as social 
+media, online videos, podcasts and legislation in APA style. Some of these 
+sources (social media, online videos and podcasts) are not considered to 
+be equivalent to high quality academic texts so you should always check 
+with your lecturer before using in your assignments.
+Psychological Tests/Scales
+Social Media
+Facebook
+Components Author Surname, Initial(s)., Author Surname, 
+Initial(s)., Author Surname, Initial(s)., & Author 
+Surname, Initial(s). (Year of publication). Title of Test/
+Scale (in italics) [Database record]. Name of Database. 
+https://doi.org/xxxx
+Format 
+Example
+Pekaar, K. A., Bakker, A. B., van der Linden, D., & 
+Components Author Surname, Initial(s). (Date of publication). 
+Title of post (first 20 words, in italics) [Description of 
+content] [Post type]. Platform name. URL
+Format 
+Example
+Psychology Today. (2023, February 1). 
+NCI Library Referencing and Avoiding Plagiarism Guide
+71
+Developing greater self-discipline, research shows, 
+can deliver benefits including better health and 
+a reduced propensity for risky behavior [Image 
+attached] [Status update]. Facebook. https://
+www.facebook.com/15687708844/posts/
+Born, M. P. (2018). Rotterdam Emotional 
+Intelligence Scale [Database record]. 
+APA PsycTests. https://doi.org/10.1037/t66601-000
+X/Instagram/TikTok
+Online Videos
+Podcasts
+Components Author Surname, Initial(s) [X handle]. (Date of 
+publication). Title of post (first 20 words, in italics) 
+[Description of content] [Post type]. Platform name. 
+URL
+Format 
+Example
+American Psychological Association [@APA]. (2025, 
+Components Author Surname, Initial(s). (Date of publication). Title 
+of video (in italics) [Video]. Site name. URL
+Format 
+Example
+Little, B. (2016, July 19). Who are you, really? The
+Components Author Surname, Initial(s). (Host(s)). (Date aired). 
+Title of episode (in italics) [Audio podcast]. Name of 
+Podcast. URL
+Format 
+Example
+Vedantam, S. (Host). (2018, May 15). The surprising
+NCI Library Referencing and Avoiding Plagiarism Guide
+72
+March 29). #Kindness toward others can boost 
+our physical and mental health—and research 
+suggests an uptick in generosity in recent years
+[Image attached] [Post]. https://x.com/APA/
+status/1905999159011770539 
+puzzle of personality [Video]. YouTube. https://
+www.youtube.com/watch?v=qYvXk_bqlBk
+benefit of moving and grooving with your kid 
+[Audio podcast]. National Public Radio. https://
+www.npr.org/sections/goatsandsoda/2018/05/15 
+/610448906/the-surprising-benefit-of-moving-andgrooving-with-your-kid
+Encyclopedias/Dictionaries 
+Print 
+Online
+N.B. When an online reference work (e.g. APA Dictionary of Psychology) is 
+continuously updated, use “n.d.” as the year of publication and include a 
+retrieval date.
+Components Author Surname, Initial(s). (Year of publication). Title 
+of entry. In Editor Initial(s). Editor Surname, & Editor 
+Initial(s). Editor Surname (Eds.) (if applicable), Name 
+of encyclopedia/dictionary (in italics) (edition if given). 
+Publisher.
+Format 
+Example
+Gorman, L. (2011). Online social networking. In G. 
+Components Author Surname, Initial(s). (Year of publication). Title 
+of entry. In Name of encyclopedia/dictionary (in italics). 
+Retrieved date, from URL
+Format 
+Example
+American Psychological Association. (n.d.). Anxiety. 
+NCI Library Referencing and Avoiding Plagiarism Guide
+73
+Ritzer, & J. M. Ryan (Eds.), The concise 
+encyclopedia of sociology. Wiley-Blackwell.
+In APA dictionary of psychology. Retrieved June 
+16, 2023, from https://dictionary.apa.org/anxiety
+Legislation 
+Acts
+EU Directives
+Components Title (include section of legislation if specified in-text), 
+Source (if available), (Year of publication). URL (if 
+available)
+Format 
+Example
+Social Welfare Act, Government of Ireland, (2017). 
+Components European Union Author(s). (Year of publication). Title 
+of Directive (in italics). [Details of Directive]. URL
+Format 
+Example
+European Parliament, Council of the European
+NCI Library Referencing and Avoiding Plagiarism Guide
+74
+http://www.irishstatutebook.ie/eli/2017/act/38/
+enacted/en/html
+Union. (2014). Directive 2014/95/EU of the European 
+Parliament and of the Council of 22 October 
+2014 amending Directive 2013/34/EU as regards 
+disclosure of non-financial and diversity information 
+by certain large undertakings and groups. [EU 
+Directive 2014/95/EU]. https://eur-lex.europa.eu/
+legalcontent/EN/TXT/?uri=CELEX%3A32014L0095
+Theses/Dissertations
+N.B. It is generally not recommended to reference theses/dissertations unless 
+commenting on their own research - it is better practice to access the sources 
+they have used and reference those sources directly, particularly if you are 
+consulting a recent thesis/dissertation.
+Lecture Notes
+It is not recommended to directly reference lecture notes or slides; ideally, 
+you should be using these as a starting point to explore the books and 
+resources discussed and highlighted in class and provide evidence to your 
+lecturer of wider reading and research.
+Diagrams/Charts/Images/Tables
+Follow the format for the type of source from which the diagram/chart/
+image/table is taken, i.e. a book/eBook, journal article, webpage etc.
+N.B. If you use the exact same diagram/chart/image/table as featured within 
+the source, make sure to give the exact caption title and put the in-text 
+citation just beneath the diagram/chart/image/table with a page number (if 
+applicable).
+Software 
+Generally, common or standard software (e.g. SPSS, Word, Excel, Java, 
+Adobe, Photoshop etc.) does not need to be referenced.
+Components Author Surname, Initial(s). (Year of publication). Title
+Format 
+Example
+Matthews, J. (2022). The impact of access to verbal 
+NCI Library Referencing and Avoiding Plagiarism Guide
+75
+of thesis/dissertation (in italics) [Doctoral/
+Master’s/Bachelor’s thesis/dissertation, Awarding 
+institution]. Database/repository. URL
+language on working memory: A study of working 
+memory on profoundly deaf adults [Bachelor’s 
+dissertation, National College of Ireland]. 
+NORMA. https://norma.ncirl.ie/5662/
+APA – Additional Notes
+Formulating References
+References can always be typed manually, following the examples 
+contained within this guide. However, there is also reference management 
+software such as Mendeley or Zotero and numerous websites that can 
+assist you in formulating references for most of the core sources in APA 
+style. Microsoft Word also has a built-in referencing tool; however, it only 
+includes APA 6th edition so you may need to update references manually 
+to reflect the 7th edition.
+See page 26-28 of this guide and the online Referencing and Avoiding 
+Plagiarism guide for further information.
+N.B. Referencing tools are not always accurate so always double check 
+your references are correct according to APA style requirements as 
+outlined in this guide.
+Block Quotations
+While the use of direct quotations should be kept to a minimum in your 
+work, sometimes it may be necessary to provide a longer quotation 
+(longer than approximately 30-40 words) particularly when recording 
+excerpts of interviews in thesis work. In these cases, quotation marks 
+are not used; instead, the entire quotation is indented and single spaced 
+with a blank line above and below. If you choose to omit some part of a 
+quotation, then indicate this by inserting three spaced dots (. . .) in place 
+of the removed text.
+NCI Library Referencing and Avoiding Plagiarism Guide
+76
+No Known Author
+Sometimes there is no formal information about the author. This may 
+occur because the author is not known, or the publisher/organisation 
+is considered the author. In this case, the name of the publisher/
+organisation should be used as the author both in-text and in the 
+reference list.
+If there is no known author (person, publisher or organisation) to credit, 
+then it is not advisable to use the source as it may not be the best quality.
+DOIs/Permalinks
+When referencing online resources such as journal articles or webpages, 
+you are required to include a URL (or link) in the reference, this is 
+important for two main reasons:
+● To make it easier for your reader to access the sources you used 
+and verify the information for themselves
+● To demonstrate that you have used good quality, legitimate 
+academic resources
+There are two main types of URLs that are commonly included in 
+references for online resources, DOIs and Permalinks.
+What is a DOI?
+A DOI, or Digital Object Identifier, is a series of numbers, letters and 
+symbols used to permanently identify a digital resource. DOIs give a digital 
+resource (journal article, conference paper, document or eBook) a unique, 
+persistent identifier that does not change, allowing your reader to easily 
+access the resource online.
+Where to find a DOI
+DOIs always start with 10 and can be found either on the record page 
+(if searching on Discovery or in a database) or within the resource itself 
+(often on the first page or in the header or footer of a journal article).
+NCI Library Referencing and Avoiding Plagiarism Guide
+77
+N.B. Not all articles or resources have a DOI.
+How to include a DOI in a reference
+You can include a DOI at the end of a reference to allow your reader to 
+easily access the resource online. See below for an example of how to 
+include a DOI in an APA style journal article reference:
+Authors Referring to Other Authors – Secondary Referencing
+In academic sources, authors commonly refer to other authors. This can 
+be difficult to navigate when referencing in your written work – see our 
+advice below:
+● If possible, try and locate the original author/source of the 
+information referred to and then you can access and reference it 
+directly
+● Avoid referencing a source that you have not directly accessed and 
+read yourself, i.e. you have only found it within another source – to 
+do so, gives a false idea of the sources you have actually read and 
+used for your assignment
+● Try and use a passage of text that does not refer to other authors 
+at all, this allows you to credit the main authors of the source you 
+are reading directly and eliminates the need to credit other authors 
+mentioned in the text
+N.B. APA advice is to try and avoid secondary referencing and instead 
+locate and reference the primary source of the information directly.
+Reference 
+example
+NCI Library Referencing and Avoiding Plagiarism Guide
+78
+Huppatz, K., & Ross-Smith, A. (2017). A discipline at
+https://doi.org/10.1177/1440783317743810
+the crossroads? Using a gender-inspired 
+paradigm to reposition the sociology of work and 
+employment. Journal of Sociology, 53(4), 756-770. 
+https://doi.org/10.1177/1440783317743810
+ DOI format
+Citing Multiple Sources In-Text – Alphabetical, Then 
+Chronological Order
+When providing multiple citations, list the citations first alphabetically, 
+then chronologically, separated by a semi-colon. 
+Note that the order is strictly alphabetical, but where two papers have the 
+same author(s), then the citations are chronologically ordered (earliest 
+first).
+Acronyms or Abbreviations
+An acronym or abbreviation can be used for a source with a corporate or 
+organisational author to which you refer frequently. Provide the full name 
+of the author the first time it appears in the text, and then you can use the 
+abbreviation thereafter both in your text and as part of an in-text citation.
+Only the full name (e.g. American Psychological Association) should 
+feature in the reference list.
+Identical In-Text References When Shortened Using Et Al.
+When referencing authors in-text that shorten to the same author and the 
+same year when using et al., add extra authors to the references until they 
+show a difference, e.g.
+(Wang, Zhang, et al., 2017)
+(Wang, Chen, et al., 2017)
+N.B. There is a comma before the et al. in this circumstance.
+Example In the last 30 years the department has carried out 
+four major surveys (Abbott & Smith, 1988; Brown, 
+1996, 1999; Smith, 1981).
+Example The American Psychological Association (APA) outlined the most recent referencing guidelines for the 
+APA style in the Publication Manual (APA, 2019).
+NCI Library Referencing and Avoiding Plagiarism Guide
+79
+Reference List Tips
+● The reference list should begin on a new page; all references 
+should be double spaced and the second and subsequent lines 
+of each individual reference should have hanging indents
+● All references should be listed alphabetically by the primary 
+author’s surname or family name (regardless of the order you 
+referred to them in your text). If the author is a company or 
+organisation, this is also listed alphabetically with the other 
+sources; there is no division of source types, all sources are 
+listed together
+● You should list all sources that you have referenced within your 
+written work, ensuring that the dates and spellings of authors’ 
+names are consistent in the text and the reference list
+● Different works by the same author are arranged in date order 
+(the earliest work is first)
+● When you have multiple references with the same author 
+and year, you can differentiate between them by inserting a 
+letter next to the year both in-text and in the reference list, 
+e.g. (Smith, 2025a) and (Smith, 2025b). In the reference list, 
+list the references with the same author and the same year, 
+alphabetically by title, apply the labels based on this order 
+and then add the correct label to the corresponding in-text 
+citation(s) so it is clear which of the sources you are referring to 
+in text
+● Do not number or bullet point the reference list entries
+● Do not include a source in your reference list that you have not 
+read yourself, i.e. it has only been referred to in another source 
+you read
+See the sample APA reference list on the following pages
+NCI Library Referencing and Avoiding Plagiarism Guide
+80
+APA – Sample Reference List
+Reference List
+American Psychiatric Association. (2022). Diagnostic and statistical manual 
+of mental disorders (5th ed., text rev.).
+Aronson, E., Wilson, T. D., & Sommers, S. R. (2020). Social psychology (10th 
+global ed.). Pearson.
+Feeney, J. (2023, August 29-30). Using population cohort data to 
+investigate the relationship between stress and healthy brain ageing
+[Conference presentation]. Neuroscience Ireland Conference 2023, 
+Dublin, Ireland.
+Freeman, L., & Sullivan, C. (2019) Thematic analysis. In C. Sullivan, & M. A. 
+Forrester (Eds.), Doing qualitative research in psychology: A practical 
+guide (2nd ed., pp. 161-184). Sage.
+Hakanen, J. J., Peeters, M. C. W., & Schaufeli, W. B. (2018). Different types 
+of employee well-being across time and their relationship with job 
+crafting. Journal of Occupation Health Psychology, 23(2), 289-301. 
+https://doi.org/10.1037/ocp0000081
+Howitt, D., & Cramer, D. (2020). Research methods in psychology (6th ed.). 
+Pearson.
+Huppatz, K., & Ross-Smith, A. (2017). A discipline at the crossroads? Using 
+a gender-inspired paradigm to reposition the sociology of work 
+and employment. Journal of Sociology, 53(4), 756-770. https://doi.
+org/10.1177/1440783317743810
+Kalat, J. W. (2021). Introduction to psychology (12th ed.). Cengage.
+Mahmud, T., Barua, K., Barua, A., Das, S., Basnin, N., Hossain, M. S., 
+Andersson, K., Kaiser, M. S., & Sharmen, N. (2023). Exploring 
+deep transfer learning ensemble for improved diagnosis and 
+classification of Alzheimer’s disease. In F. Liu, Y. Zhang, H. Kuai, E. 
+F. Stephen, & H. Wang (Eds.), Lecture notes in computer science: 
+Vol. 13974. Brain informatics (pp. 109–120). Springer. https://doi.
+org/10.1007/978-3-031-43075-6_10
+NCI Library Referencing and Avoiding Plagiarism Guide
+81
+O’Connell, J. (2018, May 19). Jennifer O’Connell: Why do we live in a 
+culture that venerates stress? The Irish Times. https://www.
+irishtimes.com/life-and-style/people/jennifer-oconnell-why-do-welive-in-a-culture-that-venerates-stress-1.3491747
+Patil, G., Patil, T., & Wagh, K. (2023). Bridging neuroscience and minds: 
+Exploring collective intelligence through brain duplication using 
+AI. 2023 31st Irish Conference on Artificial Intelligence and Cognitive 
+Science (AICS), 1-4. https://doi.org/10.1109/AICS60730.2023.10470727
+Santoro, H. (2023, January 1). The push for more equitable research is 
+changing the field. American Psychological Association. https://
+www.apa.org/monitor/2023/01/trends-inclusivity-psychologicalresearch
+Shepard, B. (2022, December 15). How does music affect your brain? 
+Livescience. https://www.livescience.com/how-does-music-affectyour-brain
+Sturgis, P. (2020). Surveys and sampling. In G. M. Breakwell, D. B. Wright, 
+& J. Barnett (Eds.), Research methods in psychology (5th ed., pp. 
+373-393). Sage.
+Sweeney, J. (2013). A strategic review of further education and training 
+and the unemployed. Department of Education and Skills. https://
+www.education.ie/en/Publications/Education-Reports/A-StrategicReview-of-Further-Education-and-Training-and-the-Unemployed.
+pdf
+Wood, W. (2017). Habit in personality and social psychology. Personality 
+and Social Psychology Review, 21(4), 389-403. https://doi.
+org/10.1177/1088868317720362
+NCI Library Referencing and Avoiding Plagiarism Guide
+82
+IEEE Style
+The IEEE referencing style is widely used in the areas of computer science, 
+software development and information technology and is required by 
+a number of modules in the School of Computing in NCI. The IEEE style 
+acknowledges a source at the exact point where it is used within the text 
+of your written work and then provides the full bibliographic details in a 
+list of references at the end, which is titled References. 
+Getting Started
+Referencing Format
+IEEE style is a numerical system rather than an author-date system like 
+Harvard and APA. In IEEE style, in-text citations are numbered in square 
+brackets in the order in which they appear in the text. The first source 
+cited is numbered [1], the second [2] and so on. Each reference number 
+should be enclosed in square brackets on the same line as the text, before 
+any punctuation, with a space before the bracket.
+Once a source has been given a number, the same number is used 
+whenever 

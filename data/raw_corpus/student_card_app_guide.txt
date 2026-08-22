@@ -1,0 +1,37 @@
+Source: https://www.ncirl.ie/Portals/0/Admissions/Springboard/Student%20Card%20App%20Guide.pdf
+Title: How To Obtain Your Student Card
+
+To print your student card, the college requires a passport style photograph. Please note that any photos submitted
+alongside applications are used during the application process only. The college requires an additional photo for
+student identification use. Students can take this photo using a SmartPhone or Desktop/Laptop.
+
+From a SmartPhone (Android or IPhone)
+Install the 'PowerApps' application to your smartphone from the Play Store on android phones or Apple Store on Iphones.
+PowerApps may require access to certain information and applications on your phone, including your camera. Please ensure
+that you accept these access requirements. The first time you log into PowerApps, you will be required to sign in with your
+NCI email account (x followed by your student number @ncirl.ie, for example x12345678@student.ncirl.ie).
+You will be brought to the NCI PowerApps page where you will be asked to enter your network password. Upon signing in,
+you will reach the PowerApps homepage. Please click on the blue camera icon titled "My NCI Profile Picture".
+To upload your photo, you must allow the app permission to use the camera on your phone.
+
+Student Card Photo Requirements
+Clear, sharp and in focus. Head straight to camera and show full front view as you would normally appear.
+Your expression should be neutral. Sunglasses and hats should not be worn and only head coverings worn for
+religious reasons are permitted. Background should be a plain, light coloured background. There should be no
+other person in the photograph.
+
+Once you are happy with your photo, please tick the box agreeing to the usage of your image as described in NCI's
+Data Protection Policy and then press submit. Your photo will now be sent for approval by the Admissions Office.
+You will receive confirmation of whether your photo has been approved within two working days. Please note that
+following the submission of your photo, you will not have the opportunity to submit a new photograph. Following
+submission, all approved student photographs are final.
+
+From a Desktop or Laptop
+Please be aware that your desktop or laptop should have access to a camera. Log into Office 365
+(https://login.microsoftonline.com). You will be required to sign in with your NCI email account. You will be
+brought to the NCI Office 365 sign in page where you will be asked to enter your network password. Once you have
+logged into Office 365, all available apps will be displayed. Please select the PowerApps icon, or click the top
+left-hand side Office 365 apps icon and display the dropdown menu of applications, then click the PowerApps icon.
+On the PowerApps homepage, please click on the blue camera icon titled "My NCI Profile Picture". You will be
+brought to the My NCI Profile Picture Homepage. Please use the camera in this page to take your student card
+identification photo, following the same Student Card Photo Requirements listed above.

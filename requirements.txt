@@ -1,0 +1,17 @@
+# Core dependencies -- all required to reproduce the results reported
+# in the TABA report. Installing these requires internet connectivity
+# (sentence-transformers pulls in PyTorch and downloads the
+# all-MiniLM-L6-v2 model weights on first run, ~90MB).
+numpy>=1.22
+rank_bm25>=0.2.2
+sentence-transformers>=2.2
+pdfplumber>=0.10   # for parsing local PDF files instead of .txt
+
+# Note: dense_retriever.py still contains a network-free TF-IDF +
+# random-projection fallback that activates automatically if
+# sentence-transformers cannot be imported (e.g. install failed or no
+# internet access). This is a robustness safeguard, not the intended
+# default -- the Model Evaluation and Hyperparameter Optimization
+# sections of the report are grounded in results produced with
+# sentence-transformers (all-MiniLM-L6-v2) installed, so install
+# everything in this file to reproduce those numbers exactly.

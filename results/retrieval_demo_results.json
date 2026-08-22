@@ -1,0 +1,149 @@
+{
+  "corpus_stats": {
+    "num_documents": 5,
+    "num_chunks": 260,
+    "avg_chunks_per_doc": 52.0,
+    "total_words": 30976,
+    "avg_doc_words": 6195.2,
+    "min_doc_words": 475,
+    "max_doc_words": 17118,
+    "avg_chunk_words": 148.6
+  },
+  "dense_backend": "sentence-transformers (all-MiniLM-L6-v2)",
+  "hyperparameters": {
+    "chunk_size": 150,
+    "chunk_overlap": 30,
+    "sparse_k": 10,
+    "dense_k": 10,
+    "fusion_k": 60,
+    "final_k": 3
+  },
+  "queries": [
+    {
+      "query": "How much is the Student Contribution Fee and when is it due?",
+      "latency_ms": 16.69,
+      "top_chunks": [
+        {
+          "chunk_id": "registration_booklet_2020::chunk5",
+          "doc_id": "registration_booklet_2020",
+          "snippet": "Student Grant 2020: Student Universal Support Ireland (SUSI) is the awarding authority for all student grant applications. All students who are applying for the student grant must apply through SUSI. "
+        },
+        {
+          "chunk_id": "results_faq_sob::chunk4",
+          "doc_id": "results_faq_sob",
+          "snippet": "repeat contingency assessment. As this will be deemed a first sitting, the marks obtained for any previous attempts will be set aside. In the unlikely circumstance where a student achieves a lower mar"
+        },
+        {
+          "chunk_id": "registration_booklet_2020::chunk7",
+          "doc_id": "registration_booklet_2020",
+          "snippet": "euro per annum. There is an easy payment plan for the course: 20% deposit plus gym membership fee to register, followed by 8 monthly instalments of 590 euro each. The first direct debit is scheduled t"
+        }
+      ]
+    },
+    {
+      "query": "What do I need to do if I failed a module in Semester 2?",
+      "latency_ms": 15.97,
+      "top_chunks": [
+        {
+          "chunk_id": "results_faq_sob::chunk0",
+          "doc_id": "results_faq_sob",
+          "snippet": "1. I failed a Semester 1 module(s), what do I need to do? Any student who failed, or did not attempt, a Semester 1 module(s) must now attempt the repeat assessment. This will not be an exam but a repe"
+        },
+        {
+          "chunk_id": "results_faq_sob::chunk3",
+          "doc_id": "results_faq_sob",
+          "snippet": "using the link provided on the Exams page of the NCI website. 5. I am a student who failed a module in both Semester 1 and Semester 2. What do I need to do now? You must attempt the repeat contingency"
+        },
+        {
+          "chunk_id": "results_faq_sob::chunk2",
+          "doc_id": "results_faq_sob",
+          "snippet": "result in a student returning the following academic year to repeat the module. You will be allowed to carry any fully completed continuous assessment marks you have received to date. If you wish to a"
+        }
+      ]
+    },
+    {
+      "query": "How do I get my student card photo approved?",
+      "latency_ms": 20.28,
+      "top_chunks": [
+        {
+          "chunk_id": "student_card_app_guide::chunk3",
+          "doc_id": "student_card_app_guide",
+          "snippet": "NCI email account. You will be brought to the NCI Office 365 sign in page where you will be asked to enter your network password. Once you have logged into Office 365, all available apps will be displ"
+        },
+        {
+          "chunk_id": "student_card_app_guide::chunk2",
+          "doc_id": "student_card_app_guide",
+          "snippet": "in the photograph. Once you are happy with your photo, please tick the box agreeing to the usage of your image as described in NCI's Data Protection Policy and then press submit. Your photo will now b"
+        },
+        {
+          "chunk_id": "student_card_app_guide::chunk1",
+          "doc_id": "student_card_app_guide",
+          "snippet": "@ncirl.ie, for example x12345678@student.ncirl.ie). You will be brought to the NCI PowerApps page where you will be asked to enter your network password. Upon signing in, you will reach the PowerApps "
+        }
+      ]
+    },
+    {
+      "query": "What is the Harvard referencing style used for in-text citations?",
+      "latency_ms": 17.24,
+      "top_chunks": [
+        {
+          "chunk_id": "library_referencing_guide::chunk62",
+          "doc_id": "library_referencing_guide",
+          "snippet": "used, they can check your reference list. As Harvard is a two-part referencing system, it is important that in-text citations and reference list entries correspond - every source cited in the text of "
+        },
+        {
+          "chunk_id": "library_referencing_guide::chunk61",
+          "doc_id": "library_referencing_guide",
+          "snippet": "direct quotations should be kept to a minimum in your work and are best used only when exact wording is important, for example, when providing a precise definition. It is better to put information int"
+        },
+        {
+          "chunk_id": "library_referencing_guide::chunk58",
+          "doc_id": "library_referencing_guide",
+          "snippet": "too late. A reference needs to be made at the exact point in your writing where you use information from another source. This consists of a short, basic reference (Author, Year) inserted every time yo"
+        }
+      ]
+    },
+    {
+      "query": "Who is eligible for DARE and HEAR supplementary orientation?",
+      "latency_ms": 16.9,
+      "top_chunks": [
+        {
+          "chunk_id": "registration_booklet_2020::chunk14",
+          "doc_id": "registration_booklet_2020",
+          "snippet": "on commencement of term. Supplementary Access Orientation Schedule for DARE and HEAR Students If you were deemed eligible under either the DARE or HEAR scheme, you are invited to a supplementary orien"
+        },
+        {
+          "chunk_id": "registration_booklet_2020::chunk9",
+          "doc_id": "registration_booklet_2020",
+          "snippet": "orientation. Orientation is compulsory and extremely important to attend. It will help you to familiarise yourself with the layout of the College and will give you an opportunity to meet your new clas"
+        },
+        {
+          "chunk_id": "registration_booklet_2020::chunk13",
+          "doc_id": "registration_booklet_2020",
+          "snippet": "the balance is paid by the College. IT Facilities and Services: The NCI IT Department is responsible for providing IT Services and Support to all students. The best way to contact the IT Support Desk "
+        }
+      ]
+    },
+    {
+      "query": "What happens if I do not pay my fees on time?",
+      "latency_ms": 16.37,
+      "top_chunks": [
+        {
+          "chunk_id": "registration_booklet_2020::chunk4",
+          "doc_id": "registration_booklet_2020",
+          "snippet": "Time Registration and Orientation\". On this site, you will find a step by step 'Getting Started' guide. Click on \"Step 2 - Register & Pay Course Fees\". Enter your student number and password. If you e"
+        },
+        {
+          "chunk_id": "registration_booklet_2020::chunk2",
+          "doc_id": "registration_booklet_2020",
+          "snippet": "received an offer email, please contact the Admissions Office at admissions@ncirl.ie. To accept your place please contact us on 1850 221 721 or email us at admissions@ncirl.ie. You must contact us by "
+        },
+        {
+          "chunk_id": "results_faq_sob::chunk5",
+          "doc_id": "results_faq_sob",
+          "snippet": "that means for you, contact your programme co-ordinator by email. 9. What is the deadline to register for the repeat contingency assessment? The deadline for registration is the 8th July 2020. This is"
+        }
+      ]
+    }
+  ]
+}

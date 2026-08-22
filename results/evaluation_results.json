@@ -1,0 +1,443 @@
+{
+  "dense_backend": "sentence-transformers (all-MiniLM-L6-v2)",
+  "summary": [
+    {
+      "condition": "bm25_only",
+      "n_queries": 22,
+      "recall@3": 1.0,
+      "mrr": 1.0
+    },
+    {
+      "condition": "dense_only",
+      "n_queries": 22,
+      "recall@3": 0.955,
+      "mrr": 0.932
+    },
+    {
+      "condition": "hybrid_rrf_rerank",
+      "n_queries": 22,
+      "recall@3": 1.0,
+      "mrr": 1.0
+    }
+  ],
+  "per_query": [
+    {
+      "query": "How much is the Student Contribution Fee for 2020/21?",
+      "expected_doc_id": "registration_booklet_2020",
+      "bm25_top3_docs": [
+        "registration_booklet_2020",
+        "registration_booklet_2020",
+        "results_faq_sob"
+      ],
+      "dense_top3_docs": [
+        "registration_booklet_2020",
+        "registration_booklet_2020",
+        "registration_booklet_2020"
+      ],
+      "hybrid_top3_docs": [
+        "registration_booklet_2020",
+        "registration_booklet_2020",
+        "registration_booklet_2020"
+      ]
+    },
+    {
+      "query": "What happens if I want to defer my place for medical reasons?",
+      "expected_doc_id": "registration_booklet_2020",
+      "bm25_top3_docs": [
+        "registration_booklet_2020",
+        "registration_booklet_2020",
+        "results_faq_sob"
+      ],
+      "dense_top3_docs": [
+        "registration_booklet_2020",
+        "qa_handbook_ch6_admissions",
+        "results_faq_sob"
+      ],
+      "hybrid_top3_docs": [
+        "registration_booklet_2020",
+        "registration_booklet_2020",
+        "qa_handbook_ch6_admissions"
+      ]
+    },
+    {
+      "query": "What is the fee for the BA Hons in Psychology course?",
+      "expected_doc_id": "registration_booklet_2020",
+      "bm25_top3_docs": [
+        "registration_booklet_2020",
+        "registration_booklet_2020",
+        "registration_booklet_2020"
+      ],
+      "dense_top3_docs": [
+        "registration_booklet_2020",
+        "registration_booklet_2020",
+        "registration_booklet_2020"
+      ],
+      "hybrid_top3_docs": [
+        "registration_booklet_2020",
+        "registration_booklet_2020",
+        "registration_booklet_2020"
+      ]
+    },
+    {
+      "query": "When does Semester 1 start and end?",
+      "expected_doc_id": "registration_booklet_2020",
+      "bm25_top3_docs": [
+        "registration_booklet_2020",
+        "results_faq_sob",
+        "results_faq_sob"
+      ],
+      "dense_top3_docs": [
+        "qa_handbook_ch6_admissions",
+        "registration_booklet_2020",
+        "qa_handbook_ch6_admissions"
+      ],
+      "hybrid_top3_docs": [
+        "registration_booklet_2020",
+        "qa_handbook_ch6_admissions",
+        "registration_booklet_2020"
+      ]
+    },
+    {
+      "query": "What support does the Mathematics Support Service provide?",
+      "expected_doc_id": "registration_booklet_2020",
+      "bm25_top3_docs": [
+        "registration_booklet_2020",
+        "registration_booklet_2020",
+        "qa_handbook_ch6_admissions"
+      ],
+      "dense_top3_docs": [
+        "registration_booklet_2020",
+        "registration_booklet_2020",
+        "qa_handbook_ch6_admissions"
+      ],
+      "hybrid_top3_docs": [
+        "registration_booklet_2020",
+        "registration_booklet_2020",
+        "qa_handbook_ch6_admissions"
+      ]
+    },
+    {
+      "query": "How do I access online registration on the NCI website?",
+      "expected_doc_id": "registration_booklet_2020",
+      "bm25_top3_docs": [
+        "registration_booklet_2020",
+        "registration_booklet_2020",
+        "registration_booklet_2020"
+      ],
+      "dense_top3_docs": [
+        "registration_booklet_2020",
+        "student_card_app_guide",
+        "registration_booklet_2020"
+      ],
+      "hybrid_top3_docs": [
+        "registration_booklet_2020",
+        "registration_booklet_2020",
+        "registration_booklet_2020"
+      ]
+    },
+    {
+      "query": "What transport options are available for getting to NCI?",
+      "expected_doc_id": "registration_booklet_2020",
+      "bm25_top3_docs": [
+        "registration_booklet_2020",
+        "library_referencing_guide",
+        "registration_booklet_2020"
+      ],
+      "dense_top3_docs": [
+        "qa_handbook_ch6_admissions",
+        "qa_handbook_ch6_admissions",
+        "qa_handbook_ch6_admissions"
+      ],
+      "hybrid_top3_docs": [
+        "registration_booklet_2020",
+        "qa_handbook_ch6_admissions",
+        "library_referencing_guide"
+      ]
+    },
+    {
+      "query": "What is the Disability Access Route to Education (DARE)?",
+      "expected_doc_id": "qa_handbook_ch6_admissions",
+      "bm25_top3_docs": [
+        "qa_handbook_ch6_admissions",
+        "registration_booklet_2020",
+        "qa_handbook_ch6_admissions"
+      ],
+      "dense_top3_docs": [
+        "qa_handbook_ch6_admissions",
+        "registration_booklet_2020",
+        "qa_handbook_ch6_admissions"
+      ],
+      "hybrid_top3_docs": [
+        "qa_handbook_ch6_admissions",
+        "registration_booklet_2020",
+        "qa_handbook_ch6_admissions"
+      ]
+    },
+    {
+      "query": "How does the college handle appeals of admissions decisions?",
+      "expected_doc_id": "qa_handbook_ch6_admissions",
+      "bm25_top3_docs": [
+        "qa_handbook_ch6_admissions",
+        "qa_handbook_ch6_admissions",
+        "qa_handbook_ch6_admissions"
+      ],
+      "dense_top3_docs": [
+        "qa_handbook_ch6_admissions",
+        "qa_handbook_ch6_admissions",
+        "qa_handbook_ch6_admissions"
+      ],
+      "hybrid_top3_docs": [
+        "qa_handbook_ch6_admissions",
+        "qa_handbook_ch6_admissions",
+        "qa_handbook_ch6_admissions"
+      ]
+    },
+    {
+      "query": "What is Recognition of Prior Learning (RPL)?",
+      "expected_doc_id": "qa_handbook_ch6_admissions",
+      "bm25_top3_docs": [
+        "qa_handbook_ch6_admissions",
+        "qa_handbook_ch6_admissions",
+        "qa_handbook_ch6_admissions"
+      ],
+      "dense_top3_docs": [
+        "qa_handbook_ch6_admissions",
+        "qa_handbook_ch6_admissions",
+        "qa_handbook_ch6_admissions"
+      ],
+      "hybrid_top3_docs": [
+        "qa_handbook_ch6_admissions",
+        "qa_handbook_ch6_admissions",
+        "qa_handbook_ch6_admissions"
+      ]
+    },
+    {
+      "query": "What are the entry requirements for non-standard applications?",
+      "expected_doc_id": "qa_handbook_ch6_admissions",
+      "bm25_top3_docs": [
+        "qa_handbook_ch6_admissions",
+        "qa_handbook_ch6_admissions",
+        "qa_handbook_ch6_admissions"
+      ],
+      "dense_top3_docs": [
+        "qa_handbook_ch6_admissions",
+        "qa_handbook_ch6_admissions",
+        "qa_handbook_ch6_admissions"
+      ],
+      "hybrid_top3_docs": [
+        "qa_handbook_ch6_admissions",
+        "qa_handbook_ch6_admissions",
+        "qa_handbook_ch6_admissions"
+      ]
+    },
+    {
+      "query": "How are interviews used in the admissions screening process?",
+      "expected_doc_id": "qa_handbook_ch6_admissions",
+      "bm25_top3_docs": [
+        "qa_handbook_ch6_admissions",
+        "qa_handbook_ch6_admissions",
+        "qa_handbook_ch6_admissions"
+      ],
+      "dense_top3_docs": [
+        "qa_handbook_ch6_admissions",
+        "qa_handbook_ch6_admissions",
+        "qa_handbook_ch6_admissions"
+      ],
+      "hybrid_top3_docs": [
+        "qa_handbook_ch6_admissions",
+        "qa_handbook_ch6_admissions",
+        "qa_handbook_ch6_admissions"
+      ]
+    },
+    {
+      "query": "How do I reference a journal article in Harvard style?",
+      "expected_doc_id": "library_referencing_guide",
+      "bm25_top3_docs": [
+        "library_referencing_guide",
+        "library_referencing_guide",
+        "library_referencing_guide"
+      ],
+      "dense_top3_docs": [
+        "library_referencing_guide",
+        "library_referencing_guide",
+        "library_referencing_guide"
+      ],
+      "hybrid_top3_docs": [
+        "library_referencing_guide",
+        "library_referencing_guide",
+        "library_referencing_guide"
+      ]
+    },
+    {
+      "query": "What is the CRAAP test used for when evaluating sources?",
+      "expected_doc_id": "library_referencing_guide",
+      "bm25_top3_docs": [
+        "library_referencing_guide",
+        "library_referencing_guide",
+        "library_referencing_guide"
+      ],
+      "dense_top3_docs": [
+        "library_referencing_guide",
+        "library_referencing_guide",
+        "library_referencing_guide"
+      ],
+      "hybrid_top3_docs": [
+        "library_referencing_guide",
+        "library_referencing_guide",
+        "library_referencing_guide"
+      ]
+    },
+    {
+      "query": "What counts as plagiarism and how can I avoid it?",
+      "expected_doc_id": "library_referencing_guide",
+      "bm25_top3_docs": [
+        "library_referencing_guide",
+        "library_referencing_guide",
+        "registration_booklet_2020"
+      ],
+      "dense_top3_docs": [
+        "library_referencing_guide",
+        "library_referencing_guide",
+        "library_referencing_guide"
+      ],
+      "hybrid_top3_docs": [
+        "library_referencing_guide",
+        "library_referencing_guide",
+        "library_referencing_guide"
+      ]
+    },
+    {
+      "query": "How should I use generative AI ethically in my assignments?",
+      "expected_doc_id": "library_referencing_guide",
+      "bm25_top3_docs": [
+        "library_referencing_guide",
+        "library_referencing_guide",
+        "library_referencing_guide"
+      ],
+      "dense_top3_docs": [
+        "library_referencing_guide",
+        "library_referencing_guide",
+        "library_referencing_guide"
+      ],
+      "hybrid_top3_docs": [
+        "library_referencing_guide",
+        "library_referencing_guide",
+        "library_referencing_guide"
+      ]
+    },
+    {
+      "query": "What is the difference between paraphrasing and quoting?",
+      "expected_doc_id": "library_referencing_guide",
+      "bm25_top3_docs": [
+        "library_referencing_guide",
+        "library_referencing_guide",
+        "library_referencing_guide"
+      ],
+      "dense_top3_docs": [
+        "library_referencing_guide",
+        "library_referencing_guide",
+        "library_referencing_guide"
+      ],
+      "hybrid_top3_docs": [
+        "library_referencing_guide",
+        "library_referencing_guide",
+        "library_referencing_guide"
+      ]
+    },
+    {
+      "query": "What do I do if I failed a module in Semester 1?",
+      "expected_doc_id": "results_faq_sob",
+      "bm25_top3_docs": [
+        "results_faq_sob",
+        "results_faq_sob",
+        "results_faq_sob"
+      ],
+      "dense_top3_docs": [
+        "results_faq_sob",
+        "results_faq_sob",
+        "results_faq_sob"
+      ],
+      "hybrid_top3_docs": [
+        "results_faq_sob",
+        "results_faq_sob",
+        "results_faq_sob"
+      ]
+    },
+    {
+      "query": "Is there a fee for the repeat contingency assessment after a Covid-19 deferral?",
+      "expected_doc_id": "results_faq_sob",
+      "bm25_top3_docs": [
+        "results_faq_sob",
+        "results_faq_sob",
+        "results_faq_sob"
+      ],
+      "dense_top3_docs": [
+        "results_faq_sob",
+        "results_faq_sob",
+        "results_faq_sob"
+      ],
+      "hybrid_top3_docs": [
+        "results_faq_sob",
+        "results_faq_sob",
+        "results_faq_sob"
+      ]
+    },
+    {
+      "query": "What is the deadline to register for the repeat contingency assessment?",
+      "expected_doc_id": "results_faq_sob",
+      "bm25_top3_docs": [
+        "results_faq_sob",
+        "results_faq_sob",
+        "results_faq_sob"
+      ],
+      "dense_top3_docs": [
+        "results_faq_sob",
+        "results_faq_sob",
+        "results_faq_sob"
+      ],
+      "hybrid_top3_docs": [
+        "results_faq_sob",
+        "results_faq_sob",
+        "results_faq_sob"
+      ]
+    },
+    {
+      "query": "What are the photo requirements for my student ID card?",
+      "expected_doc_id": "student_card_app_guide",
+      "bm25_top3_docs": [
+        "student_card_app_guide",
+        "student_card_app_guide",
+        "registration_booklet_2020"
+      ],
+      "dense_top3_docs": [
+        "student_card_app_guide",
+        "registration_booklet_2020",
+        "student_card_app_guide"
+      ],
+      "hybrid_top3_docs": [
+        "student_card_app_guide",
+        "registration_booklet_2020",
+        "student_card_app_guide"
+      ]
+    },
+    {
+      "query": "How do I submit my student card photo from a desktop computer?",
+      "expected_doc_id": "student_card_app_guide",
+      "bm25_top3_docs": [
+        "student_card_app_guide",
+        "student_card_app_guide",
+        "registration_booklet_2020"
+      ],
+      "dense_top3_docs": [
+        "student_card_app_guide",
+        "student_card_app_guide",
+        "student_card_app_guide"
+      ],
+      "hybrid_top3_docs": [
+        "student_card_app_guide",
+        "student_card_app_guide",
+        "registration_booklet_2020"
+      ]
+    }
+  ]
+}
