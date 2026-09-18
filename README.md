@@ -19,16 +19,46 @@ Recall@3 and MRR across all 22 labelled queries:
 | Dense only (all-MiniLM-L6-v2) | 0.955 | 0.932 |
 | Hybrid (RRF + lexical rerank) | **1.000** | **1.000** |
 
-**Honest reading of this: the hybrid retriever does not beat BM25 here, because the
-evaluation set is saturated.** These queries are keyword-heavy and the corpus is small, so
-lexical search alone already retrieves the correct document every time — there is no
-headroom for fusion to demonstrate a gain. The dense retriever underperforms on exactly the
-queries where exact terms matter (fee names, course codes).
+**On totals the hybrid ties BM25 rather than beating it — the evaluation set is
+saturated.** These 22 queries are keyword-heavy and the corpus is small, so lexical search
+alone already retrieves the correct document every time and there is no headroom for fusion
+to show a gain in the aggregate.
 
-What the hybrid setup does show is that fusion is **not destructive**: it matches the best
-single retriever rather than being dragged down by the weaker one. Demonstrating a genuine
-hybrid advantage would need a larger corpus and paraphrase-heavy queries where lexical
-overlap breaks down. That is the honest next step, not a claim this evaluation supports.
+**But the per-query analysis is where the real result is.** On the query *"What transport
+options are available for getting to NCI?"*, the dense retriever returned chunks from the
+wrong document — it drifted toward the quality assurance handbook, the largest document in
+the corpus. BM25 matched the exact terms that actually carry the answer (`transport`,
+`Luas`, `Dublin Bus`). Rank fusion recovered the correct chunk at rank 1. That is fusion
+doing precisely what it exists to do: the two retrievers fail in uncorrelated ways, so one
+covers for the other. An aggregate score cannot surface that; only reading individual
+queries can.
+
+**Two evaluation rounds, and the first is instructive.** Before the intended encoder could
+be installed, a TF-IDF + random-projection substitute stood in for dense retrieval:
+
+| Round | Retriever | Recall@3 | MRR |
+|---|---|---|---|
+| 1 — substitute encoder | BM25 | 1.000 | 1.000 |
+| 1 — substitute encoder | Dense (TF-IDF + random projection) | 0.864 | 0.758 |
+| 1 — substitute encoder | Hybrid | 1.000 | **0.947** |
+| 2 — intended encoder | Dense (all-MiniLM-L6-v2) | 0.955 | 0.932 |
+| 2 — intended encoder | Hybrid | 1.000 | **1.000** |
+
+In round 1 the hybrid's MRR fell *below* BM25 alone: the weak dense signal actively dragged
+correct chunks down during fusion. Rank fusion is only as good as its weakest input — worth
+knowing before deploying one.
+
+**Scaling.** Indexes here are in-memory over 260 chunks and answer in ~5 ms, which says
+nothing about an institution-wide deployment. Three documented concerns: brute-force cosine
+search stops being viable at thousands of chunks (an ANN index such as FAISS becomes
+necessary); policy documents change rarely, so a scheduled weekly full re-index beats
+real-time updates on cost; and while the lexical reranker is nearly free, a cross-encoder
+needs a separate pass per candidate, so batching and a fixed top-K are required to hold
+response times.
+
+**What is not claimed.** The transport case suggests the hybrid advantage grows on a larger,
+more varied corpus where exact-match retrieval fails more often. That is recorded as a
+reasoned expectation, not a demonstrated result — 22 queries cannot establish it.
 
 **Chunking sweep.** Grid search over chunk size / overlap and RRF fusion_k found
 chunk_size=150 / overlap=30 optimal (260 chunks). Zero overlap degraded BM25 recall to
