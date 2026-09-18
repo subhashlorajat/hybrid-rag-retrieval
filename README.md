@@ -1,10 +1,45 @@
-# NCI RAG POC — Hybrid Retrieval-Augmented Generation for Domain-Specific QA
+# Hybrid RAG Retrieval — BM25 + Dense Embeddings with Rank Fusion
 
-Working proof-of-concept for Question 1 (TABA, H9DLGA): a hybrid BM25 + dense-embedding
-retriever with Reciprocal Rank Fusion and a lightweight lexical reranker, evaluated over
-real NCI student-facing documents. Every number quoted in the report's Data Preparation,
-Hyperparameter Optimization and Model Evaluation sections is produced by this code, not
-assumed.
+A working retrieval-augmented generation retriever combining sparse (BM25) and dense
+(sentence-transformer) search via Reciprocal Rank Fusion, with a lexical reranker on top.
+Evaluated on 22 hand-labelled queries over five real institutional documents (~31,000 words).
+
+Every number below is produced by the scripts in `src/`, not asserted — `results/` contains
+the committed JSON output from a full run.
+
+---
+
+## Results
+
+Recall@3 and MRR across all 22 labelled queries:
+
+| Retriever | Recall@3 | MRR |
+|---|---|---|
+| BM25 only | **1.000** | **1.000** |
+| Dense only (all-MiniLM-L6-v2) | 0.955 | 0.932 |
+| Hybrid (RRF + lexical rerank) | **1.000** | **1.000** |
+
+**Honest reading of this: the hybrid retriever does not beat BM25 here, because the
+evaluation set is saturated.** These queries are keyword-heavy and the corpus is small, so
+lexical search alone already retrieves the correct document every time — there is no
+headroom for fusion to demonstrate a gain. The dense retriever underperforms on exactly the
+queries where exact terms matter (fee names, course codes).
+
+What the hybrid setup does show is that fusion is **not destructive**: it matches the best
+single retriever rather than being dragged down by the weaker one. Demonstrating a genuine
+hybrid advantage would need a larger corpus and paraphrase-heavy queries where lexical
+overlap breaks down. That is the honest next step, not a claim this evaluation supports.
+
+**Chunking sweep.** Grid search over chunk size / overlap and RRF fusion_k found
+chunk_size=150 / overlap=30 optimal (260 chunks). Zero overlap degraded BM25 recall to
+0.955, confirming overlap matters at this chunk size.
+
+**One real bug, documented.** An earlier reranker counted raw token overlap including
+stopwords, which systematically favoured long generic chunks over the short chunk actually
+containing the answer. Fixed by restricting the count to content words — see the docstring
+on `lexical_overlap_rerank` in `hybrid_retriever.py`.
+
+---
 
 ## Folder structure
 
